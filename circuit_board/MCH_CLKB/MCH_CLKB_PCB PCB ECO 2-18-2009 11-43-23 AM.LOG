@@ -1,0 +1,33 @@
+Added Component: Designator=RP1_up0(YC124)
+Added Component: Designator=RP2_up0(YC124)
+Added Component: Designator=RP3_up0(YC124)
+Added Pin To Net: NetName=GND Pin=C52-1
+Added Pin To Net: NetName=+3V3 Pin=C52-2
+Added Pin To Net: NetName=VDD Pin=IC6-14
+Added Pin To Net: NetName=UP0_RD0 Pin=RP1_up0-1
+Added Pin To Net: NetName=UP0_RD1 Pin=RP1_up0-2
+Added Pin To Net: NetName=UP0_RD2 Pin=RP1_up0-3
+Added Pin To Net: NetName=UP0_RD3 Pin=RP1_up0-4
+Added Pin To Net: NetName=NetIC23_up0_25 Pin=RP1_up0-5
+Added Pin To Net: NetName=NetIC23_up0_27 Pin=RP1_up0-6
+Added Pin To Net: NetName=NetIC23_up0_28 Pin=RP1_up0-7
+Added Pin To Net: NetName=NetIC23_up0_29 Pin=RP1_up0-8
+Added Pin To Net: NetName=UP0_RD4 Pin=RP2_up0-1
+Added Pin To Net: NetName=UP0_RD5 Pin=RP2_up0-2
+Added Pin To Net: NetName=UP0_RD6 Pin=RP2_up0-3
+Added Pin To Net: NetName=UP0_RD7 Pin=RP2_up0-4
+Added Pin To Net: NetName=NetIC23_up0_21 Pin=RP2_up0-5
+Added Pin To Net: NetName=NetIC23_up0_22 Pin=RP2_up0-6
+Added Pin To Net: NetName=NetIC23_up0_23 Pin=RP2_up0-7
+Added Pin To Net: NetName=NetIC23_up0_24 Pin=RP2_up0-8
+Added Pin To Net: NetName=UP0_RD8 Pin=RP3_up0-1
+Added Pin To Net: NetName=UP0_RD9 Pin=RP3_up0-2
+Added Pin To Net: NetName=+3V3 Pin=RP3_up0-3
+Added Pin To Net: NetName=+3V3 Pin=RP3_up0-4
+Added Pin To Net: NetName=UP0_SCL Pin=RP3_up0-5
+Added Pin To Net: NetName=UP0_SDA Pin=RP3_up0-6
+Added Pin To Net: NetName=NetIC23_up0_19 Pin=RP3_up0-7
+Added Pin To Net: NetName=NetIC23_up0_20 Pin=RP3_up0-8
+Added Member To Class: ClassName=up0 Member=Component RP1_up0 (RP1A) RES_PACK
+Added Member To Class: ClassName=up0 Member=Component RP2_up0 (RP2A) RES_PACK
+Added Member To Class: ClassName=up0 Member=Component RP3_up0 (RP3A) RES_PACK

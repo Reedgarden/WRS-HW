@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=UP0_RD7 Pin=RP2_up0-3
+Removed Pin From Net: NetName=UP0_RD6 Pin=RP2_up0-4
+Added Pin To Net: NetName=GND Pin=C52-1
+Added Pin To Net: NetName=+3V3 Pin=C52-2
+Added Pin To Net: NetName=+3V3 Pin=IC6-14
+Added Pin To Net: NetName=UP0_RD6 Pin=RP2_up0-3
+Added Pin To Net: NetName=UP0_RD7 Pin=RP2_up0-4

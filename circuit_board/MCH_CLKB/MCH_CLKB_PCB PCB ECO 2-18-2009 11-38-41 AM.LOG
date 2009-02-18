@@ -1,0 +1,15 @@
+Added Component: Designator=IC6(SO-14)
+Added Pin To Net: NetName=GND Pin=C52-1
+Added Pin To Net: NetName=+3V3 Pin=C52-2
+Added Pin To Net: NetName=NetC33_2 Pin=D3-1
+Added Pin To Net: NetName=NetC33_2 Pin=D3-2
+Added Pin To Net: NetName=GND Pin=IC6-1
+Added Pin To Net: NetName=EXTPPSIN Pin=IC6-2
+Added Pin To Net: NetName=NetIC6_3 Pin=IC6-3
+Added Pin To Net: NetName=GND Pin=IC6-4
+Added Pin To Net: NetName=PPS_IN Pin=IC6-5
+Added Pin To Net: NetName=NetIC6_6 Pin=IC6-6
+Added Pin To Net: NetName=GND Pin=IC6-7
+Added Pin To Net: NetName=+3V3 Pin=IC6-14
+Added Pin To Net: NetName=VDD Pin=IC6-14
+Added Member To Class: ClassName=CLK Member=Component IC6 SN74ALVC125

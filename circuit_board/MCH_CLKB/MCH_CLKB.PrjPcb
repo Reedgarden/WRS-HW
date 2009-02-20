@@ -149,8 +149,19 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 
-[GeneratedDocument1]
-DocumentPath=H:\ARMPUTER_VMAX_PCB_v2.4.22\ARMPUTER_VMAX.PcbDoc.htm
+[Document10]
+DocumentPath=CLKB_temp_sensors.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=9
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 
 [Generic_SCH]
 Collation=True

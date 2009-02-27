@@ -1,42 +1,50 @@
-Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=RefId~String~RefId~100|Field=Supplier~String~Supplier~100|Field=Quantity~Integer~Quantity~100|Field=Value~String~Value~100|ReportField=ProjectFileName~MCH_CLKB.PrjPcb|ReportField=ProjectFullPath~E:\WhiteRabbit-svn\trunk\circuit_board\MCH_CLKB\MCH_CLKB.PrjPcb|ReportField=Title~Bill of Materials For Project [MCH_CLKB.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~314|ReportField=ReportTime~1:55:37 PM|ReportField=ReportDate~2/17/2009|ReportField=ReportDateTime~2/17/2009 1:55:37 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2/17/2009|ReportField=CurrentTime~1:52:33 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\WhiteRabbit-svn\trunk\circuit_board\MCH_CLKB\CLKB_main.SchDoc|ReportField=DocumentName~CLKB_main.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2/17/2009|ReportField=Organization~|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=ConfigurationParameters~|ReportField=DataSourceFileName~MCH_CLKB.PrjPcb|ReportField=DataSourceFullPath~E:\WhiteRabbit-svn\trunk\circuit_board\MCH_CLKB\MCH_CLKB.PrjPcb
-SN74AUC1G125||*_U_uplink_phy_and_sfp_12011, *_U_uplink_phy_and_sfp_12012||SN74AUC1G125|||2|
-Cap|Capacitor|C?|CC1005-0402|Cap|||45|10n, 47n, 100n, TBD
-Cap|Capacitor|C?|CC3216-1206|Cap|||7|2.2u/16V X7R, TBD
-Cap Pol1|Tantallum capacitor|C?|TC3528-1411|Cap Pol1|||1|22u/6.3V
-Cap Pol1|Tantallum capacitor|C?, C?_U_uplink_phy_and_sfp_12011, C?_U_uplink_phy_and_sfp_12012|TC3216-1206|Cap Pol1|||10|10u/6.3V
-ceramic Cap|Capacitor|C?, C?_U_uplink_phy_and_sfp_12011, C?_U_uplink_phy_and_sfp_12012|CC1005-0402|Cap|||78|2.2n, 10n, 100n
-ceramic Cap|Capacitor|C?_U_uplink_phy_and_sfp_12011, C?_U_uplink_phy_and_sfp_12012|CC3216-1206|Cap|||4|10u/6.3V X7R
-EXTPPSIN|SMA Socket|CN?||SMA_SOCKET||Farnell 1556649|1|Tyco 5-1814400-1
-EXTPPSOUT|SMA Socket|CN?||SMA_SOCKET||Farnell 1556649|1|Tyco 5-1814400-1
-EXTREFIN_10M|SMA Socket|CN?||SMA_SOCKET||Farnell 1556649|1|Tyco 5-1814400-1
-EXTREFIN_125M|SMA Socket|CN?||SMA_SOCKET||Farnell 1556649|1|Tyco 5-1814400-1
-EXTREFOUT|SMA Socket|CN?||SMA_SOCKET||Farnell 1556649|1|Tyco 5-1814400-1
-JAE KX15-70p|multipin B2B connector (plug)|CN?|JAE_KX15_70p|KX15_70p|670-1338-ND|Digikey|2|KX15-70K4DE
-BAV23|General-purpose Double Diode|D?|SOT143_N|BAV23|1081207|Farnell|2|
-BAV99|Silicon Switching Diode Array for High-Speed Switching|D?|SOT-23|BAV99|1081211|Farnell|4|BAV99
-LED0|Red chip LED|D?|CD1608-0603|LED0|||1|
-AD5662B|Analog Devices 16-bit DAC w/SPI interface, ext ref|IC?|TSOP65P490-8AN|AD5662|1117908|Farnell|2|AD5662BRM
-AD8052|Low Cost, High-Speed Rail-to-Rail Amplifier|IC?|RM-08|AD8052|9425616|Farnell|4|AD8052ARZ
-AD8541|Analog Devices general purpose low-voltage R2R CMOS opamp|IC?|SO-G8/P1.53|AD8541|9603859|Farnell|1|AD8541ARZ
-ADCMP600|Analog Devices fast comparator|IC?||ADCMP600|||1|ADCMP600
-ADS7886|TI 1 MSPS serial ADC|IC?|SOT23A-6L|ADS7886|1575257|Farnell|2|ADS7886SDBVT
-EP3C5E144C7|Cyclone III Family FPGA, 94 I/O Pins, 4 PLLs, 144-Pin EQFP, Speed Grade 7, Commercial Grade|IC?|EQFP144_N|EP3C5E144C7|1635055|Farnell|8|
-LM1117|Three-Terminal Adjustable Output Positive Voltage Regulator|IC?|SOT223-4L|1117|1467363, 1469052|Farnell|2|FAN1112SX, LM1117IMP-5.0
-MC100EP16|ONSemi differental receiver w/ECL output|IC?|TSOP65P490-8AN|MC100EP16|1607606|Farnell|2|MC100EP16VADTG
-MC100EPT21|ONSemi LVDS/LVPECL -> LVTTL/LVCMOS buffer|IC?|TSOP65P490-8AN|MC100EPT21|MC100EPT21DTGOS-ND|Digikey|2|MC100EPT21
-NB3N3020|OnSemi single-chip clock mutliplier|IC?|SOP65P640-16L|NB3N3020|NB3N3020DTR2G-ND|Digikey|2|NB3N3020DTR2G
-SN74ALVC125|Quad Buffer with 3-State Outputs with TTL Compatible Inputs|IC?|751A-03_L|SN74ALVC125|1387386|Farnell|2|SN74ALVC125
-SY89465U|Micrel 2:10 any->LVDS clock fanout|IC?|MLF44|SY89465U|576-1476-1-ND|Digikey|2|SY89465UMG
-SY89474U|2:1 differential clock mux/2-output fanout|IC?|MLF24|SY89474U|576-2562-ND|Digikey|4|SY89474U
-TPS786xx|TI low noise LDO, 1A load|IC?|SOT223-6L|TPS786xx|1207352|Farnell|1|TPS78633DCQG4
-VS-705|Vectron Voltage Controlled SAW Oscillator|IC?||VS-705|||2|VS-705-LFF-HBAN-125M000000
-MC100EPT21|ONSemi LVDS/LVPECL -> LVTTL/LVCMOS buffer|IC?_U_uplink_phy_and_sfp_12011, IC?_U_uplink_phy_and_sfp_12012||MC100EPT21|||4|
-TLK1221|Texas Instruments Gigabit Ethernet PHY with deterministic clocking and LVPECL output interface|IC?_U_uplink_phy_and_sfp_12011, IC?_U_uplink_phy_and_sfp_12012|QFN40_powerpad|TLK1221|1576976|Farnell|4|TLK1221RHAT
-Ferrite bead||L?|INDC2012-0805|Inductor|||2|
-Inductor|Ferrite bead|L?_U_uplink_phy_and_sfp_12011, L?_U_uplink_phy_and_sfp_12012|INDC2012-0805|Inductor|||6|5@100MHz, 220ohm
-Res2|Resistor|R?|CR2012-0805|Res2|||6|100, 470, 50 1%
-Res2|Resistor|R?, R?_U_uplink_phy_and_sfp_12011, R?_U_uplink_phy_and_sfp_12012|CR1005-0402|Res2|||69|0*, 2.2k, 10k, 22*, 33, 47k, 50, 100, 100k, 270, 390, 470, 50 1%, TBD
-Res2|Resistor|R?_U_uplink_phy_and_sfp_12011, R?_U_uplink_phy_and_sfp_12012|CC1608-0603|Res2|||12|83, 130, 150
-235003311101|Resistor network 0804 PHYCOMP (Farnell)|RP?_U_uplink_phy_and_sfp_12011, RP?_U_uplink_phy_and_sfp_12012|YC124|RES_ARRAY_0804|||10|4.7k, 33
-AD780CR|2.5V/3.0V High-Precision Reference|U?|R-8C_N|AD780AR|||1|AD780CRZ
-SFP Module socket|Socket for SFP module|X?_U_uplink_phy_and_sfp_12011, X?_U_uplink_phy_and_sfp_12012||SFP_SOCKET_SINGLE|||2|
+Field=Description~String~Description~272|Field=Designator~String~Designator~100|Field=LibRef~String~LibRef~100|Field=RefId~String~RefId~100|Field=Supplier~String~Supplier~100|Field=Quantity~Integer~Quantity~100|Field=Value~String~Value~129|ReportField=ProjectFileName~MCH_CLKB.PrjPcb|ReportField=ProjectFullPath~E:\WhiteRabbit-svn\trunk\circuit_board\MCH_CLKB\MCH_CLKB.PrjPcb|ReportField=Title~Bill of Materials For Project [MCH_CLKB.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~355|ReportField=ReportTime~9:58:11 AM|ReportField=ReportDate~2/27/2009|ReportField=ReportDateTime~2/27/2009 9:58:11 AM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2/27/2009|ReportField=CurrentTime~9:57:52 AM|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\WhiteRabbit-svn\trunk\circuit_board\MCH_CLKB\CLKB_main.SchDoc|ReportField=DocumentName~CLKB_main.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2/25/2009|ReportField=Organization~|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=ConfigurationParameters~|ReportField=DataSourceFileName~MCH_CLKB.PrjPcb|ReportField=DataSourceFullPath~E:\WhiteRabbit-svn\trunk\circuit_board\MCH_CLKB\MCH_CLKB.PrjPcb
+Capacitor|C1, C2, C5, C7, C8, C11, C14, C15, C16, C17, C18, C19, C20, C21, C22, C23, C24, C26, C27, C28, C29, C30, C31, C32, C33, C34, C35, C36, C37, C38, C39, C40, C43, C44, C45, C46, C47, C48, C49, C50, C59, C71, C72, C75, C81|Cap|||45|10n, 47n, 100n, TBD
+Capacitor|C3, C4, C6, C9, C10, C12, C60|Cap|||7|2.2u/16V X7R, TBD
+Tantallum capacitor|C13, C25, C41, C42, C51, C57, C58, C112_up0, C112_up1, C132|Cap Pol1|||10|10u/6.3V
+Capacitor|C52, C53, C54, C55, C56, C61, C62, C63, C64, C65, C66, C67, C68, C69, C70, C73, C74, C76, C77, C78, C82, C83, C84, C85, C86, C87, C88, C89, C90, C91, C92, C93, C94, C95, C96, C97, C98, C99, C100, C101, C102, C103, C104, C105, C106_up0, C106_up1, C108_up0, C108_up1, C109_up0, C109_up1, C110_up0, C110_up1, C111_up0, C111_up1, C113_up0, C113_up1, C115_up0, C115_up1, C116_up0, C116_up1, C117_up0, C117_up1, C118_up0, C118_up1, C119_up0, C119_up1, C120_up0, C120_up1, C121_up0, C121_up1, C122_up0, C122_up1, C123_up0, C123_up1, C124_up0, C124_up1, C125_up0, C125_up1, C126, C127, C128, C129, C130, C131, C136, C137, C138, C139, C140, C141, C142, C143, C144, C145, C146, C147, C148, C149, C150, C151|Cap|||100|2.2n, 10n, 100n
+Tantallum capacitor|C79, C80, C133, C134, C135|Cap Pol1|||5|22u/6.3V
+Capacitor|C107_up0, C107_up1, C114_up0, C114_up1|Cap|||4|10u/6.3V X7R
+Receptacle Assembly, 9 Position, Right Angle|CN1|CON_DB9_H|1263551|Farnell|1|MOLEX - 0836119006
+microTCA MTCA.0 standard MCH connector 3|CN2|UTCA_MCH_TONGUE3|||1|
+multipin B2B connector (receptacle)|CN3|KX14_40p|1519650|Farnell|1|KX14-40K5DRE
+multipin B2B connector (plug)|CN4|KX15_40p|1519662|Farnell|1|KX15-40K3DE
+multipin B2B connector (receptacle)|CN5, CN6|KX14_70p|670-1272-ND|Digikey|2|KX14-70K14DE
+SMB piggyboard connection|CN7|SMA_SOCKET|||1|
+SMB piggyboard connection|CN8|SMA_SOCKET|||1|
+SMB piggyboard connection|CN9|SMA_SOCKET|||1|
+SMB piggyboard connection|CN10|SMA_SOCKET|||1|
+SMB piggyboard connection|CN11|SMA_SOCKET|||1|
+Silicon Switching Diode Array for High-Speed Switching|D1, D2, D3, D5|BAV99|1081211|Farnell|4|BAV99
+General-purpose Double Diode|D4|BAV23|1081207|Farnell|1|
+Red chip LED|D6|LED0|||1|
+TI 1 MSPS serial ADC|IC1, IC3|ADS7886|1575257|Farnell|2|ADS7886SDBVT
+Low Cost, High-Speed Rail-to-Rail Amplifier|IC2, IC4|AD8052|9425616|Farnell|2|AD8052ARZ
+Cyclone III Family FPGA, 94 I/O Pins, 4 PLLs, 144-Pin EQFP, Speed Grade 7, Commercial Grade|IC5|EP3C5E144C7|1635055|Farnell|1|
+Quad Buffer with 3-State Outputs with TTL Compatible Inputs|IC6|SN74ALVC125|||1|SN74ALVC125
+Analog Devices fast comparator|IC7|ADCMP600|1441023|Farnell|1|ADCMP600BRJZ-R2
+OnSemi single-chip clock mutliplier|IC8|NB3N3020|NB3N3020DTR2G-ND|Digikey|1|NB3N3020DTR2G
+Analog Devices general purpose low-voltage R2R CMOS opamp|IC9|AD8541|9603859|Farnell|1|AD8541ARZ
+2:1 differential clock mux/2-output fanout|IC10, IC16|SY89474U|576-2562-ND|Digikey|2|SY89474U
+ONSemi differental receiver w/ECL output|IC11|MC100EP16|1607606|Farnell|1|MC100EP16VADTG
+Micrel 2:10 any->LVDS clock fanout|IC12|SY89465U|576-1476-1-ND|Digikey|1|SY89465UMG
+Analog Devices 16-bit DAC w/SPI interface, ext ref|IC13, IC17|AD5662|1117908|Farnell|2|AD5662BRM
+Vectron Voltage Controlled SAW Oscillator|IC14, IC18|VS-705|VS-705-LFF-HAAN-125M000000|Vectron (?)|2|VS-705-LFF-HAAN-125M000000
+ONSemi LVDS/LVPECL -> LVTTL/LVCMOS buffer|IC15, IC24_up0, IC24_up1|MC100EPT21|MC100EPT21DTGOS-ND|Digikey|3|MC100EPT21
+Three-Terminal Adjustable Output Positive Voltage Regulator|IC19, IC21|1117|1467363, 1469052|Farnell|2|FAN1112SX, LM1117IMP-5.0
+TI low noise LDO, 1A load|IC20|TPS786xx|1207352|Farnell|1|TPS78633DCQG4
+TI 2.5V single tri-state buffer|IC22_up0, IC22_up1|SN74AUC1G125|1606269|Farnell|2|SN74AUC1G125DBVR
+Texas Instruments Gigabit Ethernet PHY with deterministic clocking and LVPECL output interface|IC23_up0, IC23_up1|TLK1221|1576976|Farnell|2|TLK1221RHAT
+2.5V/3.0V High-Precision Reference|IC25|AD780AR|AD780ARZ-ND|Digikey|1|AD780ARZ
+|IC26|IFC_MAX3232|1287435|Farnell|1|MAX3232CDBE4
+TTL->LVDS buffer|IC27, IC29, IC31, IC33, IC35, IC37|SN65LVDS1|8452482|Farnell|6|SN65LVDS1DBVT
+LVDS->TTL buffer|IC28, IC30, IC32, IC34, IC36, IC38|SN65LVDS2|1652269|Farnell|6|SN65LVDS2DBVR
+I2C temp. sensor|IC39, IC40, IC41, IC42|TMP100|296-12750-1-ND|Digikey|4|TMP101NA/250
+|L1, L2, L6, L7, L8, L9|Inductor|||6|
+Ferrite bead|L3_up0, L3_up1, L4_up0, L4_up1, L5_up0, L5_up1|Inductor|||6|5@100MHz, 220ohm
+Resistor|R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R21, R22, R23, R24, R25, R26, R27, R29, R32, R33, R34, R35, R36, R37, R38, R39, R40, R41, R44, R45, R46, R48, R49, R50, R51, R52, R53, R54, R55, R56, R57, R59_up0, R59_up1, R61_up0, R61_up1, R66_up0, R66_up1, R67_up0, R67_up1, R68_up0, R68_up1, R69_up0, R69_up1, R70_up0, R70_up1, R71_up0, R71_up1, R73, R74, R75, R76, R77, R78, R79, R80, R81|Res2|||76|0*, 2.2k, 10k, 22*, 25, 33, 47k, 50, 100, 100k, 100k*, 270, 390, 470, 50 1%, TBD
+Resistor|R28, R30, R31, R42, R43, R47|Res2|||6|100, 470, 50 1%
+Resistor|R58_up0, R58_up1, R60_up0, R60_up1, R62_up0, R62_up1, R63_up0, R63_up1, R64_up0, R64_up1, R65_up0, R65_up1, R82_up0, R82_up1|Res2|||14|83, 100*, 130, 150
+Resistor|R72_up0, R72_up1|Res2|||2|100
+4-resistor pack|RP1_up0, RP1_up1, RP2_up0, RP2_up1, RP3_up0, RP3_up1, RP4_up0, RP4_up1, RP5_up0, RP5_up1|Res_Pack4|AVX  CRB2A4 series|Farnell|10|10k, 33
+Socket for SFP module|X1_up0, X1_up1|SFP_SOCKET_SINGLE|||2|

@@ -206,6 +206,20 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 
+[Document14]
+DocumentPath=MCH_MAIN.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for MCH_MAIN\Design Rule Check - MCH_MAIN.html
 
@@ -233,19 +247,19 @@ AutoOpenOutJob=-1
 [Generic_SmartPDFSettings]
 ProjectMode=-1
 ZoomPrecision=50
-AddNetsInformation=0
+AddNetsInformation=-1
 AddNetPins=-1
 AddNetNetLabels=-1
 AddNetPorts=-1
 ExportBOM=0
-TemplateFilename=
+TemplateFilename=BOM Default Template.XLT
 TemplateStoreRelative=-1
 PCB_PrintColor=0
 SCH_PrintColor=0
 SCH_ShowNoErc=-1
 SCH_ShowParameter=-1
 SCH_ShowProbes=-1
-OutputFileName=MCH_MAIN.PrjPcb=E:\WhiteRabbit-svn\trunk\circuit_board\MCH_MAIN\MCH_MAIN.pdf
+OutputFileName=MCH_MAIN.PrjPcb=D:\projects\whiterabbit\trunk\circuit_board\MCH_MAIN\MCH_MAIN.pdf
 SCH_ExpandLogicalToPhysical=0
 SCH_VariantName=[None]
 SCH_ExpandComponentDesignators=-1

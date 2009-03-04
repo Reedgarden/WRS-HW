@@ -201,8 +201,8 @@ AnnotateScope=All
 AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoEnabled=0
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 
 [Document14]
@@ -1016,8 +1016,8 @@ PhysicalNamingFormat=$Component_$RoomName
 GlobalIndexSortOrder=3
 
 [PrjClassGen]
-CompClassManualEnabled=0
-CompClassManualRoomEnabled=0
+CompClassManualEnabled=1
+CompClassManualRoomEnabled=1
 NetClassAutoBusEnabled=1
 NetClassAutoCompEnabled=0
 NetClassAutoNamedHarnessEnabled=0
@@ -1060,7 +1060,7 @@ ComponentLibIdentifierKind6=Library Name And Type
 ComponentLibraryIdentifier6=wr_switch.SCHLIB
 ComponentDesignItemID6=AT91SAM9263
 ComponentSymbolReference6=AT91SAM9263
-ComponentUpdate6=1
+ComponentUpdate6=0
 ComponentLibIdentifierKind7=Library Name And Type
 ComponentLibraryIdentifier7=wr_switch.SCHLIB
 ComponentDesignItemID7=ATmega128L-8AI
@@ -1230,7 +1230,7 @@ ComponentLibIdentifierKind40=Library Name And Type
 ComponentLibraryIdentifier40=wr_switch.SCHLIB
 ComponentDesignItemID40=TPS4005X
 ComponentSymbolReference40=TPS4005X
-ComponentUpdate40=0
+ComponentUpdate40=1
 ComponentLibIdentifierKind41=Library Name And Type
 ComponentLibraryIdentifier41=wr_switch.SCHLIB
 ComponentDesignItemID41=uTCA_HOTSWAP_SWITCH

@@ -3,7 +3,6 @@ Version=1.0
 HierarchyMode=2
 ChannelRoomNamingStyle=0
 OutputPath=Project Outputs for MCH_MAIN
-LogFolderPath=
 ChannelDesignatorFormatString=$Component_$RoomName
 ChannelRoomLevelSeperator=_
 OpenOutputs=1
@@ -221,7 +220,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for MCH_MAIN\Design Rule Check - MCH_MAIN.html
+DocumentPath=MCH_MAIN.PCBDOC.htm
 
 [Generic_SCH]
 Collation=True
@@ -273,7 +272,7 @@ SaveSettingsToOutJob=-1
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Samsung ML-2010 Series
+TargetPrinter=\\864-1a17-tek.print.cern.ch\864-1A17-TEK
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -404,7 +403,7 @@ OutputDefault25=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Samsung ML-2010 Series
+TargetPrinter=\\864-1a17-tek.print.cern.ch\864-1A17-TEK
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -425,14 +424,14 @@ OutputDefault3=0
 [OutputGroup3]
 Name=Documentation Outputs
 Description=
-TargetPrinter=Samsung ML-2010 Series
-PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
+TargetPrinter=\\864-1a17-tek.print.cern.ch\864-1A17-TEK
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=3
 OutputType1=Composite
 OutputName1=Composite Drawing
 OutputDocumentPath1=E:\WhiteRabbit-svn\trunk\circuit_board\MCH_MAIN\MCH_MAIN.PCBDOC
 OutputVariantName1=
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=0.30|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=2.69|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
 Configuration1_Name1=OutputConfigurationParameter1
 Configuration1_Item1=PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView
 Configuration1_Name2=OutputConfigurationParameter2
@@ -507,7 +506,7 @@ PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Samsung ML-2010 Series
+TargetPrinter=\\864-1a17-tek.print.cern.ch\864-1A17-TEK
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -524,7 +523,7 @@ OutputDefault2=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Samsung ML-2010 Series
+TargetPrinter=\\864-1a17-tek.print.cern.ch\864-1A17-TEK
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
@@ -580,7 +579,7 @@ OutputDefault9=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Samsung ML-2010 Series
+TargetPrinter=\\864-1a17-tek.print.cern.ch\864-1A17-TEK
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=SimpleBOM
 OutputName1=Simple BOM
@@ -620,28 +619,11 @@ OutputName5=Component Cross Reference Report
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
-OutputType6=Design Rules Check
-OutputName6=Design Rules Check
-OutputDocumentPath6=
-OutputVariantName6=
-OutputDefault6=0
-PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType7=Electrical Rules Check
-OutputName7=Electrical Rules Check
-OutputDocumentPath7=
-OutputVariantName7=
-OutputDefault7=0
-PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType8=Script
-OutputName8=Script Output
-OutputDocumentPath8=
-OutputVariantName8=
-OutputDefault8=0
 
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Samsung ML-2010 Series
+TargetPrinter=\\864-1a17-tek.print.cern.ch\864-1A17-TEK
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -654,157 +636,157 @@ OutputName2=Text Print
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
-PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
 OutputType3=Text Print
 OutputName3=Text Print
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
-PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
 OutputType4=Text Print
 OutputName4=Text Print
 OutputDocumentPath4=
 OutputVariantName4=
 OutputDefault4=0
-PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
 OutputType5=Text Print
 OutputName5=Text Print
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
-PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
 OutputType6=Text Print
 OutputName6=Text Print
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
-PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
 OutputType7=Text Print
 OutputName7=Text Print
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
-PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
 OutputType8=Text Print
 OutputName8=Text Print
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
-PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
 OutputType9=Text Print
 OutputName9=Text Print
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
 OutputType10=Text Print
 OutputName10=Text Print
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
-PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
 OutputType11=Text Print
 OutputName11=Text Print
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
 OutputType12=Text Print
 OutputName12=Text Print
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
 OutputType13=Text Print
 OutputName13=Text Print
 OutputDocumentPath13=
 OutputVariantName13=
 OutputDefault13=0
-PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
 OutputType14=Text Print
 OutputName14=Text Print
 OutputDocumentPath14=
 OutputVariantName14=
 OutputDefault14=0
-PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
 OutputType15=Text Print
 OutputName15=Text Print
 OutputDocumentPath15=
 OutputVariantName15=
 OutputDefault15=0
-PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
 OutputType16=Text Print
 OutputName16=Text Print
 OutputDocumentPath16=
 OutputVariantName16=
 OutputDefault16=0
-PageOptions16=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+PageOptions16=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
 OutputType17=Text Print
 OutputName17=Text Print
 OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
-PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
 OutputType18=Text Print
 OutputName18=Text Print
 OutputDocumentPath18=
 OutputVariantName18=
 OutputDefault18=0
-PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
 OutputType19=Text Print
 OutputName19=Text Print
 OutputDocumentPath19=
 OutputVariantName19=
 OutputDefault19=0
-PageOptions19=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+PageOptions19=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
 OutputType20=Text Print
 OutputName20=Text Print
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-PageOptions20=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+PageOptions20=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
 OutputType21=Text Print
 OutputName21=Text Print
 OutputDocumentPath21=
 OutputVariantName21=
 OutputDefault21=0
-PageOptions21=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+PageOptions21=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
 OutputType22=Text Print
 OutputName22=Text Print
 OutputDocumentPath22=
 OutputVariantName22=
 OutputDefault22=0
-PageOptions22=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+PageOptions22=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
 OutputType23=Text Print
 OutputName23=Text Print
 OutputDocumentPath23=
 OutputVariantName23=
 OutputDefault23=0
-PageOptions23=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+PageOptions23=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
 OutputType24=Text Print
 OutputName24=Text Print
 OutputDocumentPath24=
 OutputVariantName24=
 OutputDefault24=0
-PageOptions24=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+PageOptions24=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
 OutputType25=Text Print
 OutputName25=Text Print
 OutputDocumentPath25=
 OutputVariantName25=
 OutputDefault25=0
-PageOptions25=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+PageOptions25=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
 OutputType26=Text Print
 OutputName26=Text Print
 OutputDocumentPath26=
 OutputVariantName26=
 OutputDefault26=0
-PageOptions26=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+PageOptions26=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
 OutputType27=Text Print
 OutputName27=Text Print
 OutputDocumentPath27=
 OutputVariantName27=
 OutputDefault27=0
-PageOptions27=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+PageOptions27=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
 
 [Modification Levels]
 Type1=1
@@ -872,7 +854,6 @@ Type62=1
 Type63=1
 Type64=1
 Type65=1
-Type66=1
 
 [Difference Levels]
 Type1=1
@@ -1008,7 +989,6 @@ Type94=2
 Type95=2
 Type96=2
 Type97=2
-Type98=0
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -1054,277 +1034,231 @@ ComponentLibraryIdentifier0=Capacitors.DbLib/Capacitors SMD
 ComponentDesignItemID0=CC0402_47NF_16V_10%_X7R
 ComponentSymbolReference0=Capacitor - non polarized
 ComponentUpdate0=0
-ComponentIsDeviceSheet0=0
 ComponentLibIdentifierKind1=Library Name And Type
 ComponentLibraryIdentifier1=LIBRARY_SCH.SCHLIB
 ComponentDesignItemID1=X_CRYSTAL_32k_SMD
 ComponentSymbolReference1=X_CRYSTAL_32k_SMD
 ComponentUpdate1=0
-ComponentIsDeviceSheet1=0
 ComponentLibIdentifierKind2=Library Name And Type
 ComponentLibraryIdentifier2=Miscellaneous Devices.IntLib
 ComponentDesignItemID2=Cap Pol1
 ComponentSymbolReference2=Cap Pol1
 ComponentUpdate2=0
-ComponentIsDeviceSheet2=0
 ComponentLibIdentifierKind3=Library Name And Type
 ComponentLibraryIdentifier3=Miscellaneous Devices.IntLib
 ComponentDesignItemID3=Cap
 ComponentSymbolReference3=Cap
 ComponentUpdate3=0
-ComponentIsDeviceSheet3=0
 ComponentLibIdentifierKind4=Library Name And Type
 ComponentLibraryIdentifier4=Miscellaneous Devices.IntLib
 ComponentDesignItemID4=Inductor
 ComponentSymbolReference4=Inductor
 ComponentUpdate4=0
-ComponentIsDeviceSheet4=0
 ComponentLibIdentifierKind5=Library Name And Type
 ComponentLibraryIdentifier5=Miscellaneous Devices.IntLib
 ComponentDesignItemID5=Res2
 ComponentSymbolReference5=Res2
 ComponentUpdate5=0
-ComponentIsDeviceSheet5=0
 ComponentLibIdentifierKind6=Library Name And Type
 ComponentLibraryIdentifier6=wr_switch.SCHLIB
 ComponentDesignItemID6=71V3556
 ComponentSymbolReference6=71V3556
 ComponentUpdate6=0
-ComponentIsDeviceSheet6=0
 ComponentLibIdentifierKind7=Library Name And Type
 ComponentLibraryIdentifier7=wr_switch.SCHLIB
 ComponentDesignItemID7=AT91SAM9263
 ComponentSymbolReference7=AT91SAM9263
 ComponentUpdate7=0
-ComponentIsDeviceSheet7=0
 ComponentLibIdentifierKind8=Library Name And Type
 ComponentLibraryIdentifier8=wr_switch.SCHLIB
 ComponentDesignItemID8=ATmega128L-8AI
 ComponentSymbolReference8=ATmega128L-8AI
 ComponentUpdate8=0
-ComponentIsDeviceSheet8=0
 ComponentLibIdentifierKind9=Library Name And Type
 ComponentLibraryIdentifier9=wr_switch.SCHLIB
 ComponentDesignItemID9=Cap Pol1
 ComponentSymbolReference9=Cap Pol1
 ComponentUpdate9=0
-ComponentIsDeviceSheet9=0
 ComponentLibIdentifierKind10=Library Name And Type
 ComponentLibraryIdentifier10=wr_switch.SCHLIB
 ComponentDesignItemID10=Cap
 ComponentSymbolReference10=Cap
 ComponentUpdate10=0
-ComponentIsDeviceSheet10=0
 ComponentLibIdentifierKind11=Library Name And Type
 ComponentLibraryIdentifier11=wr_switch.SCHLIB
 ComponentDesignItemID11=CONN_1x2 1.27
 ComponentSymbolReference11=CONN_1x2 1.27
 ComponentUpdate11=0
-ComponentIsDeviceSheet11=0
 ComponentLibIdentifierKind12=Library Name And Type
 ComponentLibraryIdentifier12=wr_switch.SCHLIB
 ComponentDesignItemID12=CONN_2x10 1.27
 ComponentSymbolReference12=CONN_2x10 1.27
 ComponentUpdate12=0
-ComponentIsDeviceSheet12=0
 ComponentLibIdentifierKind13=Library Name And Type
 ComponentLibraryIdentifier13=wr_switch.SCHLIB
 ComponentDesignItemID13=CONN_2x5 1.27
 ComponentSymbolReference13=CONN_2x5 1.27
 ComponentUpdate13=0
-ComponentIsDeviceSheet13=0
 ComponentLibIdentifierKind14=Library Name And Type
 ComponentLibraryIdentifier14=wr_switch.SCHLIB
 ComponentDesignItemID14=D Schottky
 ComponentSymbolReference14=D Schottky
 ComponentUpdate14=0
-ComponentIsDeviceSheet14=0
 ComponentLibIdentifierKind15=Library Name And Type
 ComponentLibraryIdentifier15=wr_switch.SCHLIB
 ComponentDesignItemID15=D_TRANSIL_SMD_0.6KW
 ComponentSymbolReference15=D_TRANSIL_SMD_0.6KW
 ComponentUpdate15=0
-ComponentIsDeviceSheet15=0
 ComponentLibIdentifierKind16=Library Name And Type
 ComponentLibraryIdentifier16=wr_switch.SCHLIB
 ComponentDesignItemID16=EP3C120F780C7
 ComponentSymbolReference16=EP3C120F780C7
 ComponentUpdate16=0
-ComponentIsDeviceSheet16=0
 ComponentLibIdentifierKind17=Library Name And Type
 ComponentLibraryIdentifier17=wr_switch.SCHLIB
 ComponentDesignItemID17=ETH_J0011D21BNL
 ComponentSymbolReference17=ETH_J0011D21BNL
 ComponentUpdate17=0
-ComponentIsDeviceSheet17=0
 ComponentLibIdentifierKind18=Library Name And Type
 ComponentLibraryIdentifier18=wr_switch.SCHLIB
 ComponentDesignItemID18=F_POLYSWITCH
 ComponentSymbolReference18=F_POLYSWITCH
 ComponentUpdate18=0
-ComponentIsDeviceSheet18=0
 ComponentLibIdentifierKind19=Library Name And Type
 ComponentLibraryIdentifier19=wr_switch.SCHLIB
 ComponentDesignItemID19=ICS8343
 ComponentSymbolReference19=ICS8343
 ComponentUpdate19=0
-ComponentIsDeviceSheet19=0
 ComponentLibIdentifierKind20=Library Name And Type
 ComponentLibraryIdentifier20=wr_switch.SCHLIB
 ComponentDesignItemID20=IFC_DM9161AE
 ComponentSymbolReference20=IFC_DM9161AE
 ComponentUpdate20=0
-ComponentIsDeviceSheet20=0
 ComponentLibIdentifierKind21=Library Name And Type
 ComponentLibraryIdentifier21=wr_switch.SCHLIB
 ComponentDesignItemID21=KX15_40p
 ComponentSymbolReference21=KX15_40p
 ComponentUpdate21=0
-ComponentIsDeviceSheet21=0
 ComponentLibIdentifierKind22=Library Name And Type
 ComponentLibraryIdentifier22=wr_switch.SCHLIB
 ComponentDesignItemID22=KX15_70p
 ComponentSymbolReference22=KX15_70p
 ComponentUpdate22=0
-ComponentIsDeviceSheet22=0
 ComponentLibIdentifierKind23=Library Name And Type
 ComponentLibraryIdentifier23=wr_switch.SCHLIB
 ComponentDesignItemID23=L_IHLP2525_0.68u
 ComponentSymbolReference23=L_IHLP2525_0.68u
 ComponentUpdate23=0
-ComponentIsDeviceSheet23=0
 ComponentLibIdentifierKind24=Library Name And Type
 ComponentLibraryIdentifier24=wr_switch.SCHLIB
 ComponentDesignItemID24=LED_2_colour
 ComponentSymbolReference24=LED_2_colour
 ComponentUpdate24=0
-ComponentIsDeviceSheet24=0
 ComponentLibIdentifierKind25=Library Name And Type
 ComponentLibraryIdentifier25=wr_switch.SCHLIB
 ComponentDesignItemID25=LED0
 ComponentSymbolReference25=LED0
 ComponentUpdate25=0
-ComponentIsDeviceSheet25=0
 ComponentLibIdentifierKind26=Library Name And Type
 ComponentLibraryIdentifier26=wr_switch.SCHLIB
 ComponentDesignItemID26=LM20123
 ComponentSymbolReference26=LM20123
 ComponentUpdate26=0
-ComponentIsDeviceSheet26=0
 ComponentLibIdentifierKind27=Library Name And Type
 ComponentLibraryIdentifier27=wr_switch.SCHLIB
 ComponentDesignItemID27=MC100EPT21
 ComponentSymbolReference27=MC100EPT21
 ComponentUpdate27=0
-ComponentIsDeviceSheet27=0
 ComponentLibIdentifierKind28=Library Name And Type
 ComponentLibraryIdentifier28=wr_switch.SCHLIB
 ComponentDesignItemID28=MEM_24C16
 ComponentSymbolReference28=MEM_24C16
 ComponentUpdate28=0
-ComponentIsDeviceSheet28=0
 ComponentLibIdentifierKind29=Library Name And Type
 ComponentLibraryIdentifier29=wr_switch.SCHLIB
 ComponentDesignItemID29=MEM_AT45DB642
 ComponentSymbolReference29=MEM_AT45DB642
 ComponentUpdate29=0
-ComponentIsDeviceSheet29=0
 ComponentLibIdentifierKind30=Library Name And Type
 ComponentLibraryIdentifier30=wr_switch.SCHLIB
 ComponentDesignItemID30=MEM_NAND256W3A2BN6E
 ComponentSymbolReference30=MEM_NAND256W3A2BN6E
 ComponentUpdate30=0
-ComponentIsDeviceSheet30=0
 ComponentLibIdentifierKind31=Library Name And Type
 ComponentLibraryIdentifier31=wr_switch.SCHLIB
 ComponentDesignItemID31=MT48LC16M16A2TG
 ComponentSymbolReference31=MT48LC16M16A2TG
 ComponentUpdate31=0
-ComponentIsDeviceSheet31=0
 ComponentLibIdentifierKind32=Library Name And Type
 ComponentLibraryIdentifier32=wr_switch.SCHLIB
 ComponentDesignItemID32=OSC_CFPS-73
 ComponentSymbolReference32=OSC_CFPS-73
 ComponentUpdate32=0
-ComponentIsDeviceSheet32=0
 ComponentLibIdentifierKind33=Library Name And Type
 ComponentLibraryIdentifier33=wr_switch.SCHLIB
 ComponentDesignItemID33=Plane_Connect
 ComponentSymbolReference33=Plane_Connect
 ComponentUpdate33=0
-ComponentIsDeviceSheet33=0
 ComponentLibIdentifierKind34=Library Name And Type
 ComponentLibraryIdentifier34=wr_switch.SCHLIB
 ComponentDesignItemID34=Q_SI7860
 ComponentSymbolReference34=Q_SI7860
 ComponentUpdate34=0
-ComponentIsDeviceSheet34=0
 ComponentLibIdentifierKind35=Library Name And Type
 ComponentLibraryIdentifier35=wr_switch.SCHLIB
 ComponentDesignItemID35=Res_Pack4
 ComponentSymbolReference35=Res_Pack4
 ComponentUpdate35=0
-ComponentIsDeviceSheet35=0
 ComponentLibIdentifierKind36=Library Name And Type
 ComponentLibraryIdentifier36=wr_switch.SCHLIB
 ComponentDesignItemID36=SN65LVDS1
 ComponentSymbolReference36=SN65LVDS1
 ComponentUpdate36=0
-ComponentIsDeviceSheet36=0
 ComponentLibIdentifierKind37=Library Name And Type
 ComponentLibraryIdentifier37=wr_switch.SCHLIB
 ComponentDesignItemID37=SN65LVDS2
 ComponentSymbolReference37=SN65LVDS2
 ComponentUpdate37=0
-ComponentIsDeviceSheet37=0
 ComponentLibIdentifierKind38=Library Name And Type
 ComponentLibraryIdentifier38=wr_switch.SCHLIB
 ComponentDesignItemID38=SN74AHC1G32
 ComponentSymbolReference38=SN74AHC1G32
 ComponentUpdate38=0
-ComponentIsDeviceSheet38=0
 ComponentLibIdentifierKind39=Library Name And Type
 ComponentLibraryIdentifier39=wr_switch.SCHLIB
 ComponentDesignItemID39=TLK1221
 ComponentSymbolReference39=TLK1221
 ComponentUpdate39=1
-ComponentIsDeviceSheet39=0
 ComponentLibIdentifierKind40=Library Name And Type
 ComponentLibraryIdentifier40=wr_switch.SCHLIB
 ComponentDesignItemID40=TMP100
 ComponentSymbolReference40=TMP100
 ComponentUpdate40=0
-ComponentIsDeviceSheet40=0
 ComponentLibIdentifierKind41=Library Name And Type
 ComponentLibraryIdentifier41=wr_switch.SCHLIB
 ComponentDesignItemID41=TPS4005X
 ComponentSymbolReference41=TPS4005X
 ComponentUpdate41=0
-ComponentIsDeviceSheet41=0
 ComponentLibIdentifierKind42=Library Name And Type
 ComponentLibraryIdentifier42=wr_switch.SCHLIB
 ComponentDesignItemID42=uTCA_HOTSWAP_SWITCH
 ComponentSymbolReference42=uTCA_HOTSWAP_SWITCH
 ComponentUpdate42=0
-ComponentIsDeviceSheet42=0
 ComponentLibIdentifierKind43=Library Name And Type
 ComponentLibraryIdentifier43=wr_switch.SCHLIB
 ComponentDesignItemID43=UTCA_MCH_TONGUE1
 ComponentSymbolReference43=UTCA_MCH_TONGUE1
 ComponentUpdate43=0
-ComponentIsDeviceSheet43=0
 ComponentLibIdentifierKind44=Library Name And Type
 ComponentLibraryIdentifier44=wr_switch.SCHLIB
 ComponentDesignItemID44=X_CRYSTAL_SMD_ABM3
 ComponentSymbolReference44=X_CRYSTAL_SMD_ABM3
 ComponentUpdate44=0
-ComponentIsDeviceSheet44=0
 ComponentLibIdentifierKind45=Library Name And Type
 ComponentLibraryIdentifier45=wr_switch.SCHLIB
 ComponentDesignItemID45=X_CRYSTAL_SMD_ABM8
 ComponentSymbolReference45=X_CRYSTAL_SMD_ABM8
 ComponentUpdate45=0
-ComponentIsDeviceSheet45=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1711,277 +1645,231 @@ ComponentLibraryIdentifier0=Capacitors.DbLib/Capacitors SMD
 ComponentDesignItemID0=CC0402_47NF_16V_10%_X7R
 ComponentSymbolReference0=Capacitor - non polarized
 ComponentUpdate0=1
-ComponentIsDeviceSheet0=0
 ComponentLibIdentifierKind1=Library Name And Type
 ComponentLibraryIdentifier1=LIBRARY_SCH.SCHLIB
 ComponentDesignItemID1=X_CRYSTAL_32k_SMD
 ComponentSymbolReference1=X_CRYSTAL_32k_SMD
 ComponentUpdate1=1
-ComponentIsDeviceSheet1=0
 ComponentLibIdentifierKind2=Library Name And Type
 ComponentLibraryIdentifier2=Miscellaneous Devices.IntLib
 ComponentDesignItemID2=Cap Pol1
 ComponentSymbolReference2=Cap Pol1
 ComponentUpdate2=1
-ComponentIsDeviceSheet2=0
 ComponentLibIdentifierKind3=Library Name And Type
 ComponentLibraryIdentifier3=Miscellaneous Devices.IntLib
 ComponentDesignItemID3=Cap
 ComponentSymbolReference3=Cap
 ComponentUpdate3=1
-ComponentIsDeviceSheet3=0
 ComponentLibIdentifierKind4=Library Name And Type
 ComponentLibraryIdentifier4=Miscellaneous Devices.IntLib
 ComponentDesignItemID4=Inductor
 ComponentSymbolReference4=Inductor
 ComponentUpdate4=1
-ComponentIsDeviceSheet4=0
 ComponentLibIdentifierKind5=Library Name And Type
 ComponentLibraryIdentifier5=Miscellaneous Devices.IntLib
 ComponentDesignItemID5=Res2
 ComponentSymbolReference5=Res2
 ComponentUpdate5=1
-ComponentIsDeviceSheet5=0
 ComponentLibIdentifierKind6=Library Name And Type
 ComponentLibraryIdentifier6=wr_switch.SCHLIB
 ComponentDesignItemID6=71V3556
 ComponentSymbolReference6=71V3556
 ComponentUpdate6=1
-ComponentIsDeviceSheet6=0
 ComponentLibIdentifierKind7=Library Name And Type
 ComponentLibraryIdentifier7=wr_switch.SCHLIB
 ComponentDesignItemID7=AT91SAM9263
 ComponentSymbolReference7=AT91SAM9263
 ComponentUpdate7=1
-ComponentIsDeviceSheet7=0
 ComponentLibIdentifierKind8=Library Name And Type
 ComponentLibraryIdentifier8=wr_switch.SCHLIB
 ComponentDesignItemID8=ATmega128L-8AI
 ComponentSymbolReference8=ATmega128L-8AI
 ComponentUpdate8=1
-ComponentIsDeviceSheet8=0
 ComponentLibIdentifierKind9=Library Name And Type
 ComponentLibraryIdentifier9=wr_switch.SCHLIB
 ComponentDesignItemID9=Cap Pol1
 ComponentSymbolReference9=Cap Pol1
 ComponentUpdate9=1
-ComponentIsDeviceSheet9=0
 ComponentLibIdentifierKind10=Library Name And Type
 ComponentLibraryIdentifier10=wr_switch.SCHLIB
 ComponentDesignItemID10=Cap
 ComponentSymbolReference10=Cap
 ComponentUpdate10=1
-ComponentIsDeviceSheet10=0
 ComponentLibIdentifierKind11=Library Name And Type
 ComponentLibraryIdentifier11=wr_switch.SCHLIB
 ComponentDesignItemID11=CONN_1x2 1.27
 ComponentSymbolReference11=CONN_1x2 1.27
 ComponentUpdate11=1
-ComponentIsDeviceSheet11=0
 ComponentLibIdentifierKind12=Library Name And Type
 ComponentLibraryIdentifier12=wr_switch.SCHLIB
 ComponentDesignItemID12=CONN_2x10 1.27
 ComponentSymbolReference12=CONN_2x10 1.27
 ComponentUpdate12=1
-ComponentIsDeviceSheet12=0
 ComponentLibIdentifierKind13=Library Name And Type
 ComponentLibraryIdentifier13=wr_switch.SCHLIB
 ComponentDesignItemID13=CONN_2x5 1.27
 ComponentSymbolReference13=CONN_2x5 1.27
 ComponentUpdate13=1
-ComponentIsDeviceSheet13=0
 ComponentLibIdentifierKind14=Library Name And Type
 ComponentLibraryIdentifier14=wr_switch.SCHLIB
 ComponentDesignItemID14=D Schottky
 ComponentSymbolReference14=D Schottky
 ComponentUpdate14=1
-ComponentIsDeviceSheet14=0
 ComponentLibIdentifierKind15=Library Name And Type
 ComponentLibraryIdentifier15=wr_switch.SCHLIB
 ComponentDesignItemID15=D_TRANSIL_SMD_0.6KW
 ComponentSymbolReference15=D_TRANSIL_SMD_0.6KW
 ComponentUpdate15=1
-ComponentIsDeviceSheet15=0
 ComponentLibIdentifierKind16=Library Name And Type
 ComponentLibraryIdentifier16=wr_switch.SCHLIB
 ComponentDesignItemID16=EP3C120F780C7
 ComponentSymbolReference16=EP3C120F780C7
 ComponentUpdate16=1
-ComponentIsDeviceSheet16=0
 ComponentLibIdentifierKind17=Library Name And Type
 ComponentLibraryIdentifier17=wr_switch.SCHLIB
 ComponentDesignItemID17=ETH_J0011D21BNL
 ComponentSymbolReference17=ETH_J0011D21BNL
 ComponentUpdate17=1
-ComponentIsDeviceSheet17=0
 ComponentLibIdentifierKind18=Library Name And Type
 ComponentLibraryIdentifier18=wr_switch.SCHLIB
 ComponentDesignItemID18=F_POLYSWITCH
 ComponentSymbolReference18=F_POLYSWITCH
 ComponentUpdate18=1
-ComponentIsDeviceSheet18=0
 ComponentLibIdentifierKind19=Library Name And Type
 ComponentLibraryIdentifier19=wr_switch.SCHLIB
 ComponentDesignItemID19=ICS8343
 ComponentSymbolReference19=ICS8343
 ComponentUpdate19=1
-ComponentIsDeviceSheet19=0
 ComponentLibIdentifierKind20=Library Name And Type
 ComponentLibraryIdentifier20=wr_switch.SCHLIB
 ComponentDesignItemID20=IFC_DM9161AE
 ComponentSymbolReference20=IFC_DM9161AE
 ComponentUpdate20=1
-ComponentIsDeviceSheet20=0
 ComponentLibIdentifierKind21=Library Name And Type
 ComponentLibraryIdentifier21=wr_switch.SCHLIB
 ComponentDesignItemID21=KX15_40p
 ComponentSymbolReference21=KX15_40p
 ComponentUpdate21=1
-ComponentIsDeviceSheet21=0
 ComponentLibIdentifierKind22=Library Name And Type
 ComponentLibraryIdentifier22=wr_switch.SCHLIB
 ComponentDesignItemID22=KX15_70p
 ComponentSymbolReference22=KX15_70p
 ComponentUpdate22=1
-ComponentIsDeviceSheet22=0
 ComponentLibIdentifierKind23=Library Name And Type
 ComponentLibraryIdentifier23=wr_switch.SCHLIB
 ComponentDesignItemID23=L_IHLP2525_0.68u
 ComponentSymbolReference23=L_IHLP2525_0.68u
 ComponentUpdate23=1
-ComponentIsDeviceSheet23=0
 ComponentLibIdentifierKind24=Library Name And Type
 ComponentLibraryIdentifier24=wr_switch.SCHLIB
 ComponentDesignItemID24=LED_2_colour
 ComponentSymbolReference24=LED_2_colour
 ComponentUpdate24=1
-ComponentIsDeviceSheet24=0
 ComponentLibIdentifierKind25=Library Name And Type
 ComponentLibraryIdentifier25=wr_switch.SCHLIB
 ComponentDesignItemID25=LED0
 ComponentSymbolReference25=LED0
 ComponentUpdate25=1
-ComponentIsDeviceSheet25=0
 ComponentLibIdentifierKind26=Library Name And Type
 ComponentLibraryIdentifier26=wr_switch.SCHLIB
 ComponentDesignItemID26=LM20123
 ComponentSymbolReference26=LM20123
 ComponentUpdate26=1
-ComponentIsDeviceSheet26=0
 ComponentLibIdentifierKind27=Library Name And Type
 ComponentLibraryIdentifier27=wr_switch.SCHLIB
 ComponentDesignItemID27=MC100EPT21
 ComponentSymbolReference27=MC100EPT21
 ComponentUpdate27=1
-ComponentIsDeviceSheet27=0
 ComponentLibIdentifierKind28=Library Name And Type
 ComponentLibraryIdentifier28=wr_switch.SCHLIB
 ComponentDesignItemID28=MEM_24C16
 ComponentSymbolReference28=MEM_24C16
 ComponentUpdate28=1
-ComponentIsDeviceSheet28=0
 ComponentLibIdentifierKind29=Library Name And Type
 ComponentLibraryIdentifier29=wr_switch.SCHLIB
 ComponentDesignItemID29=MEM_AT45DB642
 ComponentSymbolReference29=MEM_AT45DB642
 ComponentUpdate29=1
-ComponentIsDeviceSheet29=0
 ComponentLibIdentifierKind30=Library Name And Type
 ComponentLibraryIdentifier30=wr_switch.SCHLIB
 ComponentDesignItemID30=MEM_NAND256W3A2BN6E
 ComponentSymbolReference30=MEM_NAND256W3A2BN6E
 ComponentUpdate30=1
-ComponentIsDeviceSheet30=0
 ComponentLibIdentifierKind31=Library Name And Type
 ComponentLibraryIdentifier31=wr_switch.SCHLIB
 ComponentDesignItemID31=MT48LC16M16A2TG
 ComponentSymbolReference31=MT48LC16M16A2TG
 ComponentUpdate31=1
-ComponentIsDeviceSheet31=0
 ComponentLibIdentifierKind32=Library Name And Type
 ComponentLibraryIdentifier32=wr_switch.SCHLIB
 ComponentDesignItemID32=OSC_CFPS-73
 ComponentSymbolReference32=OSC_CFPS-73
 ComponentUpdate32=1
-ComponentIsDeviceSheet32=0
 ComponentLibIdentifierKind33=Library Name And Type
 ComponentLibraryIdentifier33=wr_switch.SCHLIB
 ComponentDesignItemID33=Plane_Connect
 ComponentSymbolReference33=Plane_Connect
 ComponentUpdate33=1
-ComponentIsDeviceSheet33=0
 ComponentLibIdentifierKind34=Library Name And Type
 ComponentLibraryIdentifier34=wr_switch.SCHLIB
 ComponentDesignItemID34=Q_SI7860
 ComponentSymbolReference34=Q_SI7860
 ComponentUpdate34=1
-ComponentIsDeviceSheet34=0
 ComponentLibIdentifierKind35=Library Name And Type
 ComponentLibraryIdentifier35=wr_switch.SCHLIB
 ComponentDesignItemID35=Res_Pack4
 ComponentSymbolReference35=Res_Pack4
 ComponentUpdate35=1
-ComponentIsDeviceSheet35=0
 ComponentLibIdentifierKind36=Library Name And Type
 ComponentLibraryIdentifier36=wr_switch.SCHLIB
 ComponentDesignItemID36=SN65LVDS1
 ComponentSymbolReference36=SN65LVDS1
 ComponentUpdate36=1
-ComponentIsDeviceSheet36=0
 ComponentLibIdentifierKind37=Library Name And Type
 ComponentLibraryIdentifier37=wr_switch.SCHLIB
 ComponentDesignItemID37=SN65LVDS2
 ComponentSymbolReference37=SN65LVDS2
 ComponentUpdate37=1
-ComponentIsDeviceSheet37=0
 ComponentLibIdentifierKind38=Library Name And Type
 ComponentLibraryIdentifier38=wr_switch.SCHLIB
 ComponentDesignItemID38=SN74AHC1G32
 ComponentSymbolReference38=SN74AHC1G32
 ComponentUpdate38=1
-ComponentIsDeviceSheet38=0
 ComponentLibIdentifierKind39=Library Name And Type
 ComponentLibraryIdentifier39=wr_switch.SCHLIB
 ComponentDesignItemID39=TLK1221
 ComponentSymbolReference39=TLK1221
 ComponentUpdate39=1
-ComponentIsDeviceSheet39=0
 ComponentLibIdentifierKind40=Library Name And Type
 ComponentLibraryIdentifier40=wr_switch.SCHLIB
 ComponentDesignItemID40=TMP100
 ComponentSymbolReference40=TMP100
 ComponentUpdate40=1
-ComponentIsDeviceSheet40=0
 ComponentLibIdentifierKind41=Library Name And Type
 ComponentLibraryIdentifier41=wr_switch.SCHLIB
 ComponentDesignItemID41=TPS4005X
 ComponentSymbolReference41=TPS4005X
 ComponentUpdate41=1
-ComponentIsDeviceSheet41=0
 ComponentLibIdentifierKind42=Library Name And Type
 ComponentLibraryIdentifier42=wr_switch.SCHLIB
 ComponentDesignItemID42=uTCA_HOTSWAP_SWITCH
 ComponentSymbolReference42=uTCA_HOTSWAP_SWITCH
 ComponentUpdate42=1
-ComponentIsDeviceSheet42=0
 ComponentLibIdentifierKind43=Library Name And Type
 ComponentLibraryIdentifier43=wr_switch.SCHLIB
 ComponentDesignItemID43=UTCA_MCH_TONGUE1
 ComponentSymbolReference43=UTCA_MCH_TONGUE1
 ComponentUpdate43=1
-ComponentIsDeviceSheet43=0
 ComponentLibIdentifierKind44=Library Name And Type
 ComponentLibraryIdentifier44=wr_switch.SCHLIB
 ComponentDesignItemID44=X_CRYSTAL_SMD_ABM3
 ComponentSymbolReference44=X_CRYSTAL_SMD_ABM3
 ComponentUpdate44=1
-ComponentIsDeviceSheet44=0
 ComponentLibIdentifierKind45=Library Name And Type
 ComponentLibraryIdentifier45=wr_switch.SCHLIB
 ComponentDesignItemID45=X_CRYSTAL_SMD_ABM8
 ComponentSymbolReference45=X_CRYSTAL_SMD_ABM8
 ComponentUpdate45=1
-ComponentIsDeviceSheet45=0
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0

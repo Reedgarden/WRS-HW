@@ -220,6 +220,12 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for MCH_MAIN\MCH_MAIN.BOM
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for MCH_MAIN\MCH_MAIN.CSV
+
+[GeneratedDocument3]
 DocumentPath=MCH_MAIN.PCBDOC.htm
 
 [Generic_SCH]
@@ -581,13 +587,26 @@ Name=Report Outputs
 Description=
 TargetPrinter=\\864-1a17-tek.print.cern.ch\864-1A17-TEK
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
-OutputType1=SimpleBOM
-OutputName1=Simple BOM
+OutputType1=BOM_PartType
+OutputName1=Bill of Materials
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-OutputType2=SinglePinNetReporter
-OutputName2=Report Single Pin Nets
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
+Configuration1_Name1=Filter
+Configuration1_Item1=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
+Configuration1_Name2=General
+Configuration1_Item2=OpenExported=False|AddToProject=False|ForceFit=False|Database=False|IncludePCBData=False|ShowExportOptions=True|TemplateFilename=|BatchMode=0|FormWidth=904|FormHeight=861
+Configuration1_Name3=GroupOrder
+Configuration1_Item3=Value=True
+Configuration1_Name4=OutputConfigurationParameter1
+Configuration1_Item4=Record=BOMPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False
+Configuration1_Name5=SortOrder
+Configuration1_Item5=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Name6=VisibleOrder
+Configuration1_Item6=Comment=100|Designator=225|Footprint=215|LibRef=100|Quantity=100|RefId=100|Supplier=100|Value=100
+OutputType2=ComponentCrossReference
+OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
@@ -596,26 +615,15 @@ OutputName3=Report Project Hierarchy
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
-OutputType4=BOM_PartType
-OutputName4=Bill of Materials
+OutputType4=SimpleBOM
+OutputName4=Simple BOM
 OutputDocumentPath4=
 OutputVariantName4=
 OutputDefault4=0
-PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
-Configuration4_Name1=Filter
-Configuration4_Item1=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
-Configuration4_Name2=General
-Configuration4_Item2=OpenExported=False|AddToProject=False|ForceFit=False|Database=False|IncludePCBData=False|ShowExportOptions=True|TemplateFilename=|BatchMode=0|FormWidth=904|FormHeight=861
-Configuration4_Name3=GroupOrder
-Configuration4_Item3=Value=True
-Configuration4_Name4=OutputConfigurationParameter1
-Configuration4_Item4=Record=BOMPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False
-Configuration4_Name5=SortOrder
-Configuration4_Item5=Designator=Up|Comment=Up|Footprint=Up
-Configuration4_Name6=VisibleOrder
-Configuration4_Item6=Comment=100|Designator=225|Footprint=215|LibRef=100|Quantity=100|RefId=100|Supplier=100|Value=100
-OutputType5=ComponentCrossReference
-OutputName5=Component Cross Reference Report
+Configuration4_Name1=OutputConfigurationParameter1
+Configuration4_Item1=Record=SimpleBOMView|SimpleBOMMode=0
+OutputType5=SinglePinNetReporter
+OutputName5=Report Single Pin Nets
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0

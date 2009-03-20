@@ -1,0 +1,19 @@
+MCH_MAIN:
+
+(add fixes done after sch review....)
+
+
+- reordered CPU LEDs and UTCA leds signals
+- eth connector ground changed to ETH100_AGND
+- added internal netlabels
+- removed DCLK connection to GPIO pins (not necessary - we are using SSC)
+
+- reordered SW_JTAG and FPGA config lines
+- changed UART routing to front panel (now UART0)
+- CPU reset thru diode (D22) to make JTAG working :)
+
+- changed downlink PHY->fabric A line mapping
+- changed atmega footprint to MLF64 for space reasons...
+- pinswap in atmega WD chip
+- changed 28c16 eeprom to ds18b20 unique id chip
+- routed atmega uart to programming connector for debugging purposes

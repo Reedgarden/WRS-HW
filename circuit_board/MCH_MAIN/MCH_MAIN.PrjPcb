@@ -223,6 +223,10 @@ ClassGenNCAutoScope=None
 [GeneratedDocument1]
 DocumentPath=MCH_MAIN.PCBDOC.htm
 
+[SearchPath1]
+Path=C:\Documents and Settings\slayer\Pulpit\*.*
+IncludeSubFolders=1
+
 [Generic_SCH]
 Collation=True
 Copies=1

@@ -17,3 +17,10 @@ MCH_MAIN:
 - pinswap in atmega WD chip
 - changed 28c16 eeprom to ds18b20 unique id chip
 - routed atmega uart to programming connector for debugging purposes
+
+TODO:
+
+- MAIN_RESET going thru hole (fix)
+- check the footprint for fuse (2920L25DR)
+- fix thermal pad layout for TPS40055 and LM20123
+- wider pads (outside direction) for 32768 Hz xtal

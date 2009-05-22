@@ -206,31 +206,8 @@ ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 
-[Document14]
-DocumentPath=MCH_MAIN.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-
 [GeneratedDocument1]
-DocumentPath=Project Outputs for MCH_MAIN\Design Rule Check - MCH_MAIN.html
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for MCH_MAIN\Import Error Report - MCH_MAIN.html
-
-[GeneratedDocument3]
-DocumentPath=MCH_MAIN.PCBDOC.htm
-
-[GeneratedDocument4]
-DocumentPath=pick&place-MCH_MAIN.csv
+DocumentPath=Project Outputs for MCH_MAIN\Bill of Materials-MCH_MAIN.csv
 
 [SearchPath1]
 Path=C:\Documents and Settings\slayer\Pulpit\*.*
@@ -286,7 +263,6 @@ SaveSettingsToOutJob=-1
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=\\864-1a17-hp.print.cern.ch\864-1A17-HP
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -417,7 +393,6 @@ OutputDefault25=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=\\864-1a17-hp.print.cern.ch\864-1A17-HP
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -438,7 +413,6 @@ OutputDefault3=0
 [OutputGroup3]
 Name=Documentation Outputs
 Description=
-TargetPrinter=\\864-1a17-hp.print.cern.ch\864-1A17-HP
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=3
 OutputType1=Composite
 OutputName1=Composite Drawing
@@ -520,7 +494,6 @@ PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=\\864-1a17-hp.print.cern.ch\864-1A17-HP
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -559,7 +532,6 @@ OutputDefault2=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=PrimoPDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=ODB
 OutputName1=ODB++ Files
@@ -687,7 +659,6 @@ Configuration9_Item1=AddToAllPlots_Mechanical 1=True|AddToAllPlots_Mechanical 10
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=\\864-1a17-hp.print.cern.ch\864-1A17-HP
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -750,7 +721,6 @@ OutputDefault8=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=\\864-1a17-hp.print.cern.ch\864-1A17-HP
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print

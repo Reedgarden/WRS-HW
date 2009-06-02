@@ -209,6 +209,9 @@ ClassGenNCAutoScope=None
 [GeneratedDocument1]
 DocumentPath=Project Outputs for MCH_MAIN\Bill of Materials-MCH_MAIN.csv
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for MCH_MAIN\Design Rule Check - MCH_MAIN.html
+
 [SearchPath1]
 Path=C:\Documents and Settings\slayer\Pulpit\*.*
 IncludeSubFolders=1

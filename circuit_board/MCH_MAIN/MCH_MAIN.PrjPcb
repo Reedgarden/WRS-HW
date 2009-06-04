@@ -210,6 +210,9 @@ ClassGenNCAutoScope=None
 DocumentPath=Project Outputs for MCH_MAIN\Bill of Materials-MCH_MAIN.csv
 
 [GeneratedDocument2]
+DocumentPath=Project Outputs for MCH_MAIN\Design Rule Check - AMC_SFP.html
+
+[GeneratedDocument3]
 DocumentPath=Project Outputs for MCH_MAIN\Design Rule Check - MCH_MAIN.html
 
 [SearchPath1]
@@ -632,7 +635,7 @@ OutputDefault7=0
 PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
 OutputType8=Final
 OutputName8=Final Artwork Prints
-OutputDocumentPath8=E:\WhiteRabbit-svn\trunk\circuit_board\MCH_MAIN\MCH_MAIN.PCBDOC
+OutputDocumentPath8=C:\WhiteRabbit\trunk\circuit_board\AMC_SFP\AMC_SFP.PcbDoc
 OutputVariantName8=
 OutputDefault8=1
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=0|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=1200|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=0

@@ -151,20 +151,6 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 
 [Document10]
-DocumentPath=mockup.cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-
-[Document11]
 DocumentPath=MCH_CLKB_PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -178,37 +164,201 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 
+[Document11]
+DocumentPath=MCH_CLKB_outjob_drill.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+
+[Document12]
+DocumentPath=MCH_CLKB_assembly.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+
+[Document13]
+DocumentPath=MCH_CLKB_outjob_gerbers.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+
+[Document14]
+DocumentPath=MCH_CLKB_CAM.cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for MCH_CLKB\Design Rule Check - MCH_CLKB_PCB.html
+DocumentPath=Project Outputs for MCH_CLKB\Bill of Materials-MCH_CLKB.csv
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for MCH_CLKB\MCH_CLKB.csv
+DocumentPath=..\..\fabrication\MCH_CLKB\assembly\Bill of Materials-MCH_CLKB.csv
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for MCH_CLKB\MCH_CLKB_PCB_mockup.DRL
+DocumentPath=Project Outputs for MCH_CLKB\Design Rule Check - MCH_CLKB_PCB.html
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for MCH_CLKB\MCH_CLKB_PCB_mockup.DRR
+DocumentPath=Project Outputs for MCH_CLKB\MCH_CLKB.csv
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for MCH_CLKB\MCH_CLKB_PCB_mockup.EXTREP
+DocumentPath=Project Outputs for MCH_CLKB\MCH_CLKB_PCB.DRL
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for MCH_CLKB\MCH_CLKB_PCB_mockup.GBL
+DocumentPath=..\..\fabrication\MCH_CLKB\drill\MCH_CLKB_PCB.DRL
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for MCH_CLKB\MCH_CLKB_PCB_mockup.GM1
+DocumentPath=Project Outputs for MCH_CLKB\MCH_CLKB_PCB.DRR
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for MCH_CLKB\MCH_CLKB_PCB_mockup.LDP
+DocumentPath=..\..\fabrication\MCH_CLKB\drill\MCH_CLKB_PCB.DRR
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for MCH_CLKB\MCH_CLKB_PCB_mockup.REP
+DocumentPath=Project Outputs for MCH_CLKB\MCH_CLKB_PCB.EXTREP
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for MCH_CLKB\MCH_CLKB_PCB_mockup.RUL
+DocumentPath=..\..\fabrication\MCH_CLKB\gerber\MCH_CLKB_PCB.EXTREP
 
 [GeneratedDocument11]
+DocumentPath=Project Outputs for MCH_CLKB\MCH_CLKB_PCB.G1
+
+[GeneratedDocument12]
+DocumentPath=..\..\fabrication\MCH_CLKB\gerber\MCH_CLKB_PCB.G1
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for MCH_CLKB\MCH_CLKB_PCB.GBL
+
+[GeneratedDocument14]
+DocumentPath=..\..\fabrication\MCH_CLKB\gerber\MCH_CLKB_PCB.GBL
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for MCH_CLKB\MCH_CLKB_PCB.GBP
+
+[GeneratedDocument16]
+DocumentPath=..\..\fabrication\MCH_CLKB\gerber\MCH_CLKB_PCB.GBP
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for MCH_CLKB\MCH_CLKB_PCB.GBS
+
+[GeneratedDocument18]
+DocumentPath=..\..\fabrication\MCH_CLKB\gerber\MCH_CLKB_PCB.GBS
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for MCH_CLKB\MCH_CLKB_PCB.GM1
+
+[GeneratedDocument20]
+DocumentPath=..\..\fabrication\MCH_CLKB\gerber\MCH_CLKB_PCB.GM1
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for MCH_CLKB\MCH_CLKB_PCB.GP1
+
+[GeneratedDocument22]
+DocumentPath=..\..\fabrication\MCH_CLKB\gerber\MCH_CLKB_PCB.GP1
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for MCH_CLKB\MCH_CLKB_PCB.GTL
+
+[GeneratedDocument24]
+DocumentPath=..\..\fabrication\MCH_CLKB\gerber\MCH_CLKB_PCB.GTL
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for MCH_CLKB\MCH_CLKB_PCB.GTO
+
+[GeneratedDocument26]
+DocumentPath=..\..\fabrication\MCH_CLKB\gerber\MCH_CLKB_PCB.GTO
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for MCH_CLKB\MCH_CLKB_PCB.GTP
+
+[GeneratedDocument28]
+DocumentPath=..\..\fabrication\MCH_CLKB\gerber\MCH_CLKB_PCB.GTP
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for MCH_CLKB\MCH_CLKB_PCB.GTS
+
+[GeneratedDocument30]
+DocumentPath=..\..\fabrication\MCH_CLKB\gerber\MCH_CLKB_PCB.GTS
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for MCH_CLKB\MCH_CLKB_PCB.LDP
+
+[GeneratedDocument32]
+DocumentPath=..\..\fabrication\MCH_CLKB\drill\MCH_CLKB_PCB.LDP
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for MCH_CLKB\MCH_CLKB_PCB.REP
+
+[GeneratedDocument34]
+DocumentPath=..\..\fabrication\MCH_CLKB\gerber\MCH_CLKB_PCB.REP
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for MCH_CLKB\MCH_CLKB_PCB.RUL
+
+[GeneratedDocument36]
+DocumentPath=..\..\fabrication\MCH_CLKB\gerber\MCH_CLKB_PCB.RUL
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for MCH_CLKB\MCH_CLKB_PCB.TXT
+
+[GeneratedDocument38]
+DocumentPath=..\..\fabrication\MCH_CLKB\drill\MCH_CLKB_PCB.TXT
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for MCH_CLKB\MCH_CLKB_PCB_mockup.DRL
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for MCH_CLKB\MCH_CLKB_PCB_mockup.DRR
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for MCH_CLKB\MCH_CLKB_PCB_mockup.EXTREP
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for MCH_CLKB\MCH_CLKB_PCB_mockup.GBL
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for MCH_CLKB\MCH_CLKB_PCB_mockup.GM1
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for MCH_CLKB\MCH_CLKB_PCB_mockup.LDP
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for MCH_CLKB\MCH_CLKB_PCB_mockup.REP
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for MCH_CLKB\MCH_CLKB_PCB_mockup.RUL
+
+[GeneratedDocument47]
 DocumentPath=Project Outputs for MCH_CLKB\MCH_CLKB_PCB_mockup.TXT
 
 [Generic_SCH]
@@ -240,14 +390,14 @@ AddNetPins=-1
 AddNetNetLabels=-1
 AddNetPorts=-1
 ExportBOM=0
-TemplateFilename=
+TemplateFilename=BOM Default Template 95.xlt
 TemplateStoreRelative=-1
 PCB_PrintColor=0
 SCH_PrintColor=0
 SCH_ShowNoErc=-1
 SCH_ShowParameter=-1
 SCH_ShowProbes=-1
-OutputFileName=MCH_CLKB.PrjPcb=D:\projects\whiterabbit\trunk\circuit_board\MCH_CLKB\MCH_CLKB.pdf
+OutputFileName=MCH_CLKB.PrjPcb=C:\WhiteRabbit\trunk\circuit_board\MCH_CLKB\MCH_CLKB.pdf
 SCH_ExpandLogicalToPhysical=0
 SCH_VariantName=[None]
 SCH_ExpandComponentDesignators=-1
@@ -256,7 +406,7 @@ SCH_ExpandPorts=0
 SCH_ExpandSheetNumber=0
 SCH_ExpandDocumentNumber=0
 SCH_HasExpandLogicalToPhysicalSheets=-1
-SaveSettingsToOutJob=-1
+SaveSettingsToOutJob=0
 
 [OutputGroup1]
 Name=Netlist Outputs

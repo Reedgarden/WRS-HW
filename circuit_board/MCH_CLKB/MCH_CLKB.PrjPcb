@@ -249,69 +249,63 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 
 [GeneratedDocument1]
-DocumentPath=..\..\fabrication\MCH_CLKB\assembly\Bill of Materials-MCH_CLKB.csv
-
-[GeneratedDocument2]
-DocumentPath=..\..\fabrication\MCH_CLKB\pick_and_place\Bill of Materials-MCH_CLKB.csv
-
-[GeneratedDocument3]
 DocumentPath=Project Outputs for MCH_CLKB\Design Rule Check - MCH_CLKB_PCB.html
 
-[GeneratedDocument4]
+[GeneratedDocument2]
 DocumentPath=..\..\fabrication\MCH_CLKB\drill\MCH_CLKB_PCB.DRL
 
-[GeneratedDocument5]
+[GeneratedDocument3]
 DocumentPath=..\..\fabrication\MCH_CLKB\drill\MCH_CLKB_PCB.DRR
 
-[GeneratedDocument6]
+[GeneratedDocument4]
 DocumentPath=..\..\fabrication\MCH_CLKB\gerber\MCH_CLKB_PCB.EXTREP
 
-[GeneratedDocument7]
+[GeneratedDocument5]
 DocumentPath=..\..\fabrication\MCH_CLKB\gerber\MCH_CLKB_PCB.G1
 
-[GeneratedDocument8]
+[GeneratedDocument6]
 DocumentPath=..\..\fabrication\MCH_CLKB\gerber\MCH_CLKB_PCB.G2
 
-[GeneratedDocument9]
+[GeneratedDocument7]
 DocumentPath=..\..\fabrication\MCH_CLKB\gerber\MCH_CLKB_PCB.GBL
 
-[GeneratedDocument10]
+[GeneratedDocument8]
 DocumentPath=..\..\fabrication\MCH_CLKB\gerber\MCH_CLKB_PCB.GBP
 
-[GeneratedDocument11]
+[GeneratedDocument9]
 DocumentPath=..\..\fabrication\MCH_CLKB\gerber\MCH_CLKB_PCB.GBS
 
-[GeneratedDocument12]
+[GeneratedDocument10]
 DocumentPath=..\..\fabrication\MCH_CLKB\gerber\MCH_CLKB_PCB.GM1
 
-[GeneratedDocument13]
+[GeneratedDocument11]
 DocumentPath=..\..\fabrication\MCH_CLKB\gerber\MCH_CLKB_PCB.GP1
 
-[GeneratedDocument14]
+[GeneratedDocument12]
 DocumentPath=..\..\fabrication\MCH_CLKB\gerber\MCH_CLKB_PCB.GP2
 
-[GeneratedDocument15]
+[GeneratedDocument13]
 DocumentPath=..\..\fabrication\MCH_CLKB\gerber\MCH_CLKB_PCB.GTL
 
-[GeneratedDocument16]
+[GeneratedDocument14]
 DocumentPath=..\..\fabrication\MCH_CLKB\gerber\MCH_CLKB_PCB.GTO
 
-[GeneratedDocument17]
+[GeneratedDocument15]
 DocumentPath=..\..\fabrication\MCH_CLKB\gerber\MCH_CLKB_PCB.GTP
 
-[GeneratedDocument18]
+[GeneratedDocument16]
 DocumentPath=..\..\fabrication\MCH_CLKB\gerber\MCH_CLKB_PCB.GTS
 
-[GeneratedDocument19]
+[GeneratedDocument17]
 DocumentPath=..\..\fabrication\MCH_CLKB\drill\MCH_CLKB_PCB.LDP
 
-[GeneratedDocument20]
+[GeneratedDocument18]
 DocumentPath=..\..\fabrication\MCH_CLKB\gerber\MCH_CLKB_PCB.REP
 
-[GeneratedDocument21]
+[GeneratedDocument19]
 DocumentPath=..\..\fabrication\MCH_CLKB\gerber\MCH_CLKB_PCB.RUL
 
-[GeneratedDocument22]
+[GeneratedDocument20]
 DocumentPath=..\..\fabrication\MCH_CLKB\drill\MCH_CLKB_PCB.TXT
 
 [Generic_SCH]

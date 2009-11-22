@@ -263,66 +263,63 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 
 [GeneratedDocument1]
-DocumentPath=..\..\fabrication\MCH_MAIN\pick_and_place\Bill of Materials-MCH_MAIN.csv
-
-[GeneratedDocument2]
 DocumentPath=Project Outputs for MCH_MAIN\Design Rule Check - MCH_MAIN.html
 
-[GeneratedDocument3]
+[GeneratedDocument2]
 DocumentPath=..\..\fabrication\MCH_MAIN\drill\MCH_MAIN.DRL
 
-[GeneratedDocument4]
+[GeneratedDocument3]
 DocumentPath=..\..\fabrication\MCH_MAIN\drill\MCH_MAIN.DRR
 
-[GeneratedDocument5]
+[GeneratedDocument4]
 DocumentPath=..\..\fabrication\MCH_MAIN\gerber\MCH_MAIN.EXTREP
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=..\..\fabrication\MCH_MAIN\gerber\MCH_MAIN.G1
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=..\..\fabrication\MCH_MAIN\gerber\MCH_MAIN.G2
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=..\..\fabrication\MCH_MAIN\gerber\MCH_MAIN.GBL
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=..\..\fabrication\MCH_MAIN\gerber\MCH_MAIN.GBP
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=..\..\fabrication\MCH_MAIN\gerber\MCH_MAIN.GBS
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=..\..\fabrication\MCH_MAIN\gerber\MCH_MAIN.GM1
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=..\..\fabrication\MCH_MAIN\gerber\MCH_MAIN.GP1
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=..\..\fabrication\MCH_MAIN\gerber\MCH_MAIN.GP2
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=..\..\fabrication\MCH_MAIN\gerber\MCH_MAIN.GTL
 
-[GeneratedDocument15]
+[GeneratedDocument14]
 DocumentPath=..\..\fabrication\MCH_MAIN\gerber\MCH_MAIN.GTO
 
-[GeneratedDocument16]
+[GeneratedDocument15]
 DocumentPath=..\..\fabrication\MCH_MAIN\gerber\MCH_MAIN.GTP
 
-[GeneratedDocument17]
+[GeneratedDocument16]
 DocumentPath=..\..\fabrication\MCH_MAIN\gerber\MCH_MAIN.GTS
 
-[GeneratedDocument18]
+[GeneratedDocument17]
 DocumentPath=..\..\fabrication\MCH_MAIN\drill\MCH_MAIN.LDP
 
-[GeneratedDocument19]
+[GeneratedDocument18]
 DocumentPath=..\..\fabrication\MCH_MAIN\gerber\MCH_MAIN.REP
 
-[GeneratedDocument20]
+[GeneratedDocument19]
 DocumentPath=..\..\fabrication\MCH_MAIN\gerber\MCH_MAIN.RUL
 
-[GeneratedDocument21]
+[GeneratedDocument20]
 DocumentPath=..\..\fabrication\MCH_MAIN\drill\MCH_MAIN.TXT
 
 [SearchPath1]

@@ -109,27 +109,30 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for mini_backplane\mini_backplane.DRL
+DocumentPath=..\..\..\Documents and Settings\twlostow\Local Settings\Temp\EDA-02030-V1-0_pcb.pcbdoc.htm
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for mini_backplane\mini_backplane.DRR
+DocumentPath=Project Outputs for mini_backplane\mini_backplane.DRL
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for mini_backplane\mini_backplane.EXTREP
+DocumentPath=Project Outputs for mini_backplane\mini_backplane.DRR
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for mini_backplane\mini_backplane.GM1
+DocumentPath=Project Outputs for mini_backplane\mini_backplane.EXTREP
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for mini_backplane\mini_backplane.LDP
+DocumentPath=Project Outputs for mini_backplane\mini_backplane.GM1
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for mini_backplane\mini_backplane.REP
+DocumentPath=Project Outputs for mini_backplane\mini_backplane.LDP
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for mini_backplane\mini_backplane.RUL
+DocumentPath=Project Outputs for mini_backplane\mini_backplane.REP
 
 [GeneratedDocument8]
+DocumentPath=Project Outputs for mini_backplane\mini_backplane.RUL
+
+[GeneratedDocument9]
 DocumentPath=Project Outputs for mini_backplane\mini_backplane.TXT
 
 [OutputGroup1]

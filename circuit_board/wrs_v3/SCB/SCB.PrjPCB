@@ -87,21 +87,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
 [Document5]
-DocumentPath=..\LIBS\LIBRARY_SCH.SCHLIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-
-[Document6]
 DocumentPath=..\LIBS\wr_switch.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -116,37 +101,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document7]
-DocumentPath=..\LIBS\ML605 Library.SCHLIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-
-[Document8]
-DocumentPath=..\LIBS\Seven Library.SCHLIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-
-[Document9]
+[Document6]
 DocumentPath=RS232_and_USB_ports.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -161,7 +116,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document10]
+[Document7]
 DocumentPath=C:\Archivos de programa\Altium Designer Summer 09\Library\Maxim\Maxim Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -176,7 +131,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document11]
+[Document8]
 DocumentPath=CPU_Memory.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -191,7 +146,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document12]
+[Document9]
 DocumentPath=CPU_100M_Ethernet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -206,7 +161,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document13]
+[Document10]
 DocumentPath=FPGA_GTX.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -221,7 +176,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document14]
+[Document11]
 DocumentPath=FPGA_Configuration.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +191,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document15]
+[Document12]
 DocumentPath=C:\Archivos de programa\Altium Designer Summer 09\Library\Texas Instruments\Texas Instruments Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -251,7 +206,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document16]
+[Document13]
 DocumentPath=CPU_IO_Ports.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -266,7 +221,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document17]
+[Document14]
 DocumentPath=C:\Archivos de programa\Altium Designer Summer 09\Library\Dallas Semiconductor\Dallas Peripheral Real Time Clock.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -281,7 +236,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document18]
+[Document15]
 DocumentPath=External WatchDogs.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -296,7 +251,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document19]
+[Document16]
 DocumentPath=FPGA_POWER_DGND.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -311,7 +266,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document20]
+[Document17]
 DocumentPath=FPGA_QDRII.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +281,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document21]
+[Document18]
 DocumentPath=FPGA_CPU_EBI1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -341,7 +296,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document22]
+[Document19]
 DocumentPath=CPU_JTAG_Power_PLL.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -356,7 +311,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document23]
+[Document20]
 DocumentPath=C:\Archivos de programa\Altium Designer Summer 09\Library\Philips\Philips Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -371,7 +326,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document24]
+[Document21]
 DocumentPath=uTCA_Tongue3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -386,7 +341,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document25]
+[Document22]
 DocumentPath=C:\Archivos de programa\Altium Designer Summer 09\Library\Infineon\Infineon Discrete Diode.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -401,7 +356,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document26]
+[Document23]
 DocumentPath=Connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -416,7 +371,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document27]
+[Document24]
 DocumentPath=SCB_MAIN.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -431,7 +386,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document28]
+[Document25]
 DocumentPath=FPGA_GPIOs.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -446,7 +401,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document29]
+[Document26]
 DocumentPath=FPGA_PLLs.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -461,7 +416,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document30]
+[Document27]
 DocumentPath=SMI_Link_7-12.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -476,7 +431,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document31]
+[Document28]
 DocumentPath=..\LIBS\QSS-048-01-X-D-DP-A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -491,7 +446,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document32]
+[Document29]
 DocumentPath=..\LIBS\QSS-016-01-X-D-DP-A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -506,7 +461,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document33]
+[Document30]
 DocumentPath=C:\Archivos de programa\Altium Designer Summer 09\Library\Cooper Bussman Coiltronics\Coiltronics Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -521,7 +476,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document34]
+[Document31]
 DocumentPath=C:\Archivos de programa\Altium Designer Summer 09\Library\Cooper Bussman Coiltronics\Coiltronics Passive Transformer.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -536,7 +491,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document35]
+[Document32]
 DocumentPath=FPGA_System_Monitor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -551,7 +506,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document36]
+[Document33]
 DocumentPath=C:\Archivos de programa\Altium Designer Summer 09\Library\Analog Devices\AD Power Mgt Voltage Reference.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -566,7 +521,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document37]
+[Document34]
 DocumentPath=Power_Supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -581,7 +536,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document38]
+[Document35]
 DocumentPath=C:\Archivos de programa\Altium Designer Summer 09\Library\Linear Technology\Linear Technology Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -596,7 +551,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document39]
+[Document36]
 DocumentPath=QDRII_mem.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -611,7 +566,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document40]
+[Document37]
 DocumentPath=QDRII_power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -626,7 +581,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document41]
+[Document38]
 DocumentPath=C:\Archivos de programa\Altium Designer Summer 09\Library\Infineon\Infineon Technologies Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -641,7 +596,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document42]
+[Document39]
 DocumentPath=QDRII_mem.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -656,7 +611,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document43]
+[Document40]
 DocumentPath=uTCA_Tongue3.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -671,7 +626,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document44]
+[Document41]
 DocumentPath=FPGA_CLKs.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -686,7 +641,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document45]
+[Document42]
 DocumentPath=FPGA_Configuration.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -701,7 +656,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document46]
+[Document43]
 DocumentPath=FPGA_GTX.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -716,7 +671,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document47]
+[Document44]
 DocumentPath=CPU_100M_Ethernet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -731,7 +686,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document48]
+[Document45]
 DocumentPath=CPU_JTAG_Power_PLL.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -746,7 +701,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document49]
+[Document46]
 DocumentPath=CPU_IO_Ports.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -761,7 +716,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document50]
+[Document47]
 DocumentPath=CPU_Memory.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -776,7 +731,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document51]
+[Document48]
 DocumentPath=SMI_Link_7-12.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -791,7 +746,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document52]
+[Document49]
 DocumentPath=RS232_and_USB_ports.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -806,7 +761,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document53]
+[Document50]
 DocumentPath=FPGA_QDRII.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -821,7 +776,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document54]
+[Document51]
 DocumentPath=FPGA_PLLs.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -836,7 +791,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document55]
+[Document52]
 DocumentPath=C:\Archivos de programa\Altium Designer Summer 09\Library\KEMET Electronics\KEMET Electronics Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -851,7 +806,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document56]
+[Document53]
 DocumentPath=Power_Supply.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -866,7 +821,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document57]
+[Document54]
 DocumentPath=Connectors.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -881,7 +836,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document58]
+[Document55]
 DocumentPath=External WatchDogs.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -896,7 +851,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document59]
+[Document56]
 DocumentPath=..\LIBS\7S_WR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -911,8 +866,8 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document60]
-DocumentPath=..\LIBS\CERN_Libs\PcbLib\ICs And Semiconductors SMD.PcbLib
+[Document57]
+DocumentPath=..\..\Proyectos Altium\White Rabbit\LIBS\CERN_Libs\PcbLib\ICs And Semiconductors SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -927,11 +882,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
 [GeneratedDocument1]
-DocumentPath=uTCA_MCH_PCB3.pcbdoc.htm
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=..\..\..\WR_Cern\White Rabbit\SCB\uTCA_MCH_PCB3.pcbdoc.htm
+DocumentPath=..\..\WR_Cern\White Rabbit\SCB\uTCA_MCH_PCB3.pcbdoc.htm
 DItemRevisionGUID=
 
 [Generic_SmartPDF]

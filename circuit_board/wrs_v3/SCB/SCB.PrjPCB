@@ -4,6 +4,9 @@ HierarchyMode=2
 ChannelRoomNamingStyle=0
 OutputPath=Project Outputs for SCB
 LogFolderPath=
+ReleasesFolder=
+ReleaseVaultGUID=
+ReleaseVaultName=
 ChannelDesignatorFormatString=$Component_$RoomName
 ChannelRoomLevelSeperator=_
 OpenOutputs=1
@@ -40,6 +43,7 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
 [Document2]
 DocumentPath=uTCA_MCH_PCB3.pcbdoc
@@ -55,6 +59,7 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
 [Document3]
 DocumentPath=FPGA_CLKs.SchDoc
@@ -70,6 +75,7 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
 [Document4]
 DocumentPath=..\LIBS\footprints.PCBLIB
@@ -85,6 +91,7 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
 [Document5]
 DocumentPath=..\LIBS\library.LIB
@@ -100,6 +107,7 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
 [Document6]
 DocumentPath=..\LIBS\wr_switch.SCHLIB
@@ -115,6 +123,7 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
 [Document7]
 DocumentPath=RS232_and_USB_ports.SchDoc
@@ -130,9 +139,10 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
 [Document8]
-DocumentPath=C:\Archivos de programa\Altium Designer Summer 09\Library\Maxim\Maxim Footprints.PcbLib
+DocumentPath=..\..\..\..\..\Archivos de programa\Altium Designer Summer 09\Library\Maxim\Maxim Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -145,6 +155,7 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
 [Document9]
 DocumentPath=CPU_Memory.SchDoc
@@ -160,6 +171,7 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
 [Document10]
 DocumentPath=CPU_100M_Ethernet.SchDoc
@@ -175,6 +187,7 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
 [Document11]
 DocumentPath=FPGA_GTX.SchDoc
@@ -190,6 +203,7 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
 [Document12]
 DocumentPath=FPGA_Configuration.SchDoc
@@ -205,9 +219,10 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
 [Document13]
-DocumentPath=C:\Archivos de programa\Altium Designer Summer 09\Library\Texas Instruments\Texas Instruments Footprints.PcbLib
+DocumentPath=..\..\..\..\..\Archivos de programa\Altium Designer Summer 09\Library\Texas Instruments\Texas Instruments Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -220,8 +235,25 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
 [Document14]
+DocumentPath=PCB1.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document15]
 DocumentPath=CPU_IO_Ports.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -235,9 +267,10 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
-[Document15]
-DocumentPath=C:\Archivos de programa\Altium Designer Summer 09\Library\Dallas Semiconductor\Dallas Peripheral Real Time Clock.IntLib
+[Document16]
+DocumentPath=..\..\..\..\..\Archivos de programa\Altium Designer Summer 09\Library\Dallas Semiconductor\Dallas Peripheral Real Time Clock.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -250,8 +283,9 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
-[Document16]
+[Document17]
 DocumentPath=External WatchDogs.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -265,8 +299,9 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
-[Document17]
+[Document18]
 DocumentPath=FPGA_POWER_DGND.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -280,8 +315,9 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
-[Document18]
+[Document19]
 DocumentPath=FPGA_QDRII.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -295,8 +331,9 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
-[Document19]
+[Document20]
 DocumentPath=FPGA_CPU_EBI1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -310,8 +347,9 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
-[Document20]
+[Document21]
 DocumentPath=CPU_JTAG_Power_PLL.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -325,9 +363,10 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
-[Document21]
-DocumentPath=C:\Archivos de programa\Altium Designer Summer 09\Library\Philips\Philips Footprints.PcbLib
+[Document22]
+DocumentPath=..\..\..\..\..\Archivos de programa\Altium Designer Summer 09\Library\Philips\Philips Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -340,8 +379,9 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
-[Document22]
+[Document23]
 DocumentPath=uTCA_Tongue3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,9 +395,10 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
-[Document23]
-DocumentPath=C:\Archivos de programa\Altium Designer Summer 09\Library\Infineon\Infineon Discrete Diode.IntLib
+[Document24]
+DocumentPath=..\..\..\..\..\Archivos de programa\Altium Designer Summer 09\Library\Infineon\Infineon Discrete Diode.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -370,8 +411,9 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
-[Document24]
+[Document25]
 DocumentPath=Connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -385,8 +427,9 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
-[Document25]
+[Document26]
 DocumentPath=SCB_MAIN.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -400,8 +443,9 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
-[Document26]
+[Document27]
 DocumentPath=FPGA_GPIOs.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -415,8 +459,9 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
-[Document27]
+[Document28]
 DocumentPath=FPGA_PLLs.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -430,8 +475,9 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
-[Document28]
+[Document29]
 DocumentPath=SMI_Link_7-12.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -445,8 +491,9 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
-[Document29]
+[Document30]
 DocumentPath=..\LIBS\QSS-048-01-X-D-DP-A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -460,8 +507,9 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
-[Document30]
+[Document31]
 DocumentPath=..\LIBS\QSS-016-01-X-D-DP-A.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -475,24 +523,10 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
-
-[Document31]
-DocumentPath=C:\Archivos de programa\Altium Designer Summer 09\Library\Cooper Bussman Coiltronics\Coiltronics Footprints.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
+GenerateClassCluster=0
 
 [Document32]
-DocumentPath=C:\Archivos de programa\Altium Designer Summer 09\Library\Cooper Bussman Coiltronics\Coiltronics Passive Transformer.IntLib
+DocumentPath=..\..\..\..\..\Archivos de programa\Altium Designer Summer 09\Library\Cooper Bussman Coiltronics\Coiltronics Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -505,8 +539,25 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
 [Document33]
+DocumentPath=..\..\..\..\..\Archivos de programa\Altium Designer Summer 09\Library\Cooper Bussman Coiltronics\Coiltronics Passive Transformer.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document34]
 DocumentPath=FPGA_System_Monitor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -520,24 +571,10 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
-
-[Document34]
-DocumentPath=C:\Archivos de programa\Altium Designer Summer 09\Library\Analog Devices\AD Power Mgt Voltage Reference.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
+GenerateClassCluster=0
 
 [Document35]
-DocumentPath=C:\Archivos de programa\Altium Designer Summer 09\Library\Linear Technology\Linear Technology Footprints.PcbLib
+DocumentPath=..\..\..\..\..\Archivos de programa\Altium Designer Summer 09\Library\Analog Devices\AD Power Mgt Voltage Reference.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -550,8 +587,25 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
 [Document36]
+DocumentPath=..\..\..\..\..\Archivos de programa\Altium Designer Summer 09\Library\Linear Technology\Linear Technology Footprints.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document37]
 DocumentPath=QDRII_mem.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -565,8 +619,9 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
-[Document37]
+[Document38]
 DocumentPath=QDRII_power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -580,9 +635,10 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
-[Document38]
-DocumentPath=C:\Archivos de programa\Altium Designer Summer 09\Library\Infineon\Infineon Technologies Footprints.PcbLib
+[Document39]
+DocumentPath=..\..\..\..\..\Archivos de programa\Altium Designer Summer 09\Library\Infineon\Infineon Technologies Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -595,8 +651,9 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
-[Document39]
+[Document40]
 DocumentPath=QDRII_mem.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -610,8 +667,9 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
-[Document40]
+[Document41]
 DocumentPath=uTCA_Tongue3.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -625,8 +683,9 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
-[Document41]
+[Document42]
 DocumentPath=FPGA_CLKs.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -640,8 +699,9 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
-[Document42]
+[Document43]
 DocumentPath=FPGA_Configuration.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -655,8 +715,9 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
-[Document43]
+[Document44]
 DocumentPath=FPGA_GTX.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -670,8 +731,9 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
-[Document44]
+[Document45]
 DocumentPath=CPU_100M_Ethernet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -685,8 +747,9 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
-[Document45]
+[Document46]
 DocumentPath=CPU_JTAG_Power_PLL.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -700,8 +763,9 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
-[Document46]
+[Document47]
 DocumentPath=CPU_IO_Ports.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -715,8 +779,9 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
-[Document47]
+[Document48]
 DocumentPath=CPU_Memory.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -730,8 +795,9 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
-[Document48]
+[Document49]
 DocumentPath=SMI_Link_7-12.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -745,8 +811,9 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
-[Document49]
+[Document50]
 DocumentPath=RS232_and_USB_ports.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -760,8 +827,9 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
-[Document50]
+[Document51]
 DocumentPath=FPGA_QDRII.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -775,8 +843,9 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
-[Document51]
+[Document52]
 DocumentPath=FPGA_PLLs.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -790,9 +859,10 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
-[Document52]
-DocumentPath=C:\Archivos de programa\Altium Designer Summer 09\Library\KEMET Electronics\KEMET Electronics Footprints.PcbLib
+[Document53]
+DocumentPath=..\..\..\..\..\Archivos de programa\Altium Designer Summer 09\Library\KEMET Electronics\KEMET Electronics Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -805,8 +875,9 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
-[Document53]
+[Document54]
 DocumentPath=Power_Supply.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -820,8 +891,9 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
-[Document54]
+[Document55]
 DocumentPath=Connectors.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -835,8 +907,9 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
-[Document55]
+[Document56]
 DocumentPath=External WatchDogs.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -850,8 +923,9 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
-[Document56]
+[Document57]
 DocumentPath=..\LIBS\7S_WR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -865,24 +939,10 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
-
-[Document57]
-DocumentPath=..\..\Proyectos Altium\White Rabbit\LIBS\CERN_Libs\PcbLib\ICs And Semiconductors SMD.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
+GenerateClassCluster=0
 
 [Document58]
-DocumentPath=..\..\Proyectos Altium\White Rabbit\LIBS\CERN_Libs\PcbLib\Connectors SMD.PcbLib
+DocumentPath=..\..\..\..\..\Archivos de programa\Altium Designer Summer 09\Library\Microchip\Microchip Power Mgt Line Regulator.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -895,9 +955,10 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
 [Document59]
-DocumentPath=C:\Archivos de programa\Altium Designer Summer 09\Library\Microchip\Microchip Power Mgt Line Regulator.IntLib
+DocumentPath=..\..\..\..\..\Archivos de programa\Altium Designer Summer 09\Library\National Semiconductor\NSC Voltage Reference.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -910,23 +971,9 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
 [Document60]
-DocumentPath=C:\Archivos de programa\Altium Designer Summer 09\Library\National Semiconductor\NSC Voltage Reference.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-
-[Document61]
 DocumentPath=..\LIBS\CERN_Libs\ICs And Semiconductors.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -940,8 +987,9 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
 
-[Document62]
+[Document61]
 DocumentPath=..\LIBS\CERN_Libs\Resistors.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -955,25 +1003,18 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
-
-[Document63]
-DocumentPath=..\LIBS\CERN_Libs\Capacitors.DbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
+GenerateClassCluster=0
 
 [GeneratedDocument1]
-DocumentPath=..\..\WR_Cern\White Rabbit\SCB\uTCA_MCH_PCB3.pcbdoc.htm
+DocumentPath=..\..\Documentacion\templates\uTCA_MCH_template.PcbDoc.htm
 DItemRevisionGUID=
+
+[PCBConfiguration1]
+ReleaseItemId=
+CurrentRevision=
+Name=Default Configuration
+Variant=[No Variations]
+GenerateBOM=0
 
 [Generic_SmartPDF]
 AutoOpenFile=-1
@@ -1009,7 +1050,7 @@ SaveSettingsToOutJob=0
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Bullzip PDF Printer
+TargetPrinter=Microsoft XPS Document Writer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -1140,7 +1181,7 @@ OutputDefault25=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Bullzip PDF Printer
+TargetPrinter=Microsoft XPS Document Writer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -1161,7 +1202,7 @@ OutputDefault3=0
 [OutputGroup3]
 Name=Documentation Outputs
 Description=
-TargetPrinter=Bullzip PDF Printer
+TargetPrinter=Microsoft XPS Document Writer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Composite
 OutputName1=Composite Drawing
@@ -1245,11 +1286,59 @@ OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
 PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+OutputType10=Assembler Source Print
+OutputName10=Assembler Source Prints
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+OutputType11=C Source Print
+OutputName11=C Source Prints
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+OutputType12=C/C++ Header Print
+OutputName12=C/C++ Header Prints
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+OutputType13=C++ Source Print
+OutputName13=C++ Source Prints
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+OutputType14=PCB 3D Video
+OutputName14=PCB 3D Video
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+OutputType15=Report Print
+OutputName15=Report Prints
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+OutputType16=Software Platform Print
+OutputName16=Software Platform Prints
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+PageOptions16=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+OutputType17=VHDL Print
+OutputName17=VHDL Prints
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
 
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Bullzip PDF Printer
+TargetPrinter=Microsoft XPS Document Writer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -1271,7 +1360,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Bullzip PDF Printer
+TargetPrinter=Microsoft XPS Document Writer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
@@ -1327,7 +1416,7 @@ OutputDefault9=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Bullzip PDF Printer
+TargetPrinter=Microsoft XPS Document Writer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -1352,43 +1441,31 @@ OutputName2=Component Cross Reference Report
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
-OutputType3=Design Rules Check
-OutputName3=Design Rules Check
+OutputType3=ReportHierarchy
+OutputName3=Report Project Hierarchy
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
-PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType4=Electrical Rules Check
-OutputName4=Electrical Rules Check
+OutputType4=Script
+OutputName4=Script Output
 OutputDocumentPath4=
 OutputVariantName4=
 OutputDefault4=0
-PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-OutputType5=ReportHierarchy
-OutputName5=Report Project Hierarchy
+OutputType5=SimpleBOM
+OutputName5=Simple BOM
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
-OutputType6=Script
-OutputName6=Script Output
+OutputType6=SinglePinNetReporter
+OutputName6=Report Single Pin Nets
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
-OutputType7=SimpleBOM
-OutputName7=Simple BOM
-OutputDocumentPath7=
-OutputVariantName7=
-OutputDefault7=0
-OutputType8=SinglePinNetReporter
-OutputName8=Report Single Pin Nets
-OutputDocumentPath8=
-OutputVariantName8=
-OutputDefault8=0
 
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Bullzip PDF Printer
+TargetPrinter=Microsoft XPS Document Writer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1559,6 +1636,30 @@ OutputVariantName28=
 OutputDefault28=0
 PageOptions28=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
 
+[OutputGroup8]
+Name=Validation Outputs
+Description=
+TargetPrinter=Microsoft XPS Document Writer
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
+OutputType1=Design Rules Check
+OutputName1=Design Rules Check
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+OutputType2=Electrical Rules Check
+OutputName2=Electrical Rules Check
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+OutputType3=Differences Report
+OutputName3=Differences Report
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+
 [Modification Levels]
 Type1=1
 Type2=1
@@ -1628,6 +1729,12 @@ Type65=1
 Type66=1
 Type67=1
 Type68=1
+Type69=1
+Type70=1
+Type71=1
+Type72=1
+Type73=1
+Type74=1
 
 [Difference Levels]
 Type1=1
@@ -1666,6 +1773,10 @@ Type33=1
 Type34=1
 Type35=1
 Type36=1
+Type37=1
+Type38=1
+Type39=1
+Type40=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1766,6 +1877,7 @@ Type95=2
 Type96=2
 Type97=2
 Type98=0
+Type99=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -1828,6 +1940,7 @@ ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=
 ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|Confirm=0|UseName=0|InclAllRules=0
+ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 
 [SmartPDF]
 PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1

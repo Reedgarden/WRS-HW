@@ -417,7 +417,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
 [Document27]
-DocumentPath=FPGA_PLLs.SchDoc
+DocumentPath=SCB_PLLs.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -612,21 +612,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
 [Document40]
-DocumentPath=uTCA_Tongue3.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-
-[Document41]
 DocumentPath=FPGA_CLKs.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -641,7 +626,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document42]
+[Document41]
 DocumentPath=FPGA_Configuration.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -656,7 +641,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document43]
+[Document42]
 DocumentPath=FPGA_GTX.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -671,7 +656,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document44]
+[Document43]
 DocumentPath=CPU_100M_Ethernet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -686,7 +671,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document45]
+[Document44]
 DocumentPath=CPU_JTAG_Power_PLL.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -701,7 +686,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document46]
+[Document45]
 DocumentPath=CPU_IO_Ports.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -716,7 +701,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document47]
+[Document46]
 DocumentPath=CPU_Memory.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -731,22 +716,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document48]
-DocumentPath=SMI_Link_7-12.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-
-[Document49]
+[Document47]
 DocumentPath=RS232_and_USB_ports.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -761,7 +731,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document50]
+[Document48]
 DocumentPath=FPGA_QDRII.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -776,7 +746,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document51]
+[Document49]
 DocumentPath=FPGA_PLLs.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -791,7 +761,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document52]
+[Document50]
 DocumentPath=C:\Archivos de programa\Altium Designer Summer 09\Library\KEMET Electronics\KEMET Electronics Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -806,7 +776,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document53]
+[Document51]
 DocumentPath=Power_Supply.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -821,7 +791,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document54]
+[Document52]
 DocumentPath=Connectors.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -836,7 +806,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document55]
+[Document53]
 DocumentPath=External WatchDogs.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -851,7 +821,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document56]
+[Document54]
 DocumentPath=..\LIBS\7S_WR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -866,7 +836,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document57]
+[Document55]
 DocumentPath=..\..\Proyectos Altium\White Rabbit\LIBS\CERN_Libs\PcbLib\ICs And Semiconductors SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -881,7 +851,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document58]
+[Document56]
 DocumentPath=..\..\Proyectos Altium\White Rabbit\LIBS\CERN_Libs\PcbLib\Connectors SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -896,7 +866,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document59]
+[Document57]
 DocumentPath=C:\Archivos de programa\Altium Designer Summer 09\Library\Microchip\Microchip Power Mgt Line Regulator.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -911,7 +881,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document60]
+[Document58]
 DocumentPath=C:\Archivos de programa\Altium Designer Summer 09\Library\National Semiconductor\NSC Voltage Reference.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -926,7 +896,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document61]
+[Document59]
 DocumentPath=..\LIBS\CERN_Libs\ICs And Semiconductors.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -941,7 +911,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document62]
+[Document60]
 DocumentPath=..\LIBS\CERN_Libs\Resistors.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -956,8 +926,98 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document63]
+[Document61]
 DocumentPath=..\LIBS\CERN_Libs\Capacitors.DbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document62]
+DocumentPath=C:\Archivos de programa\Altium Designer Summer 09\Library\Miscellaneous Devices.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document63]
+DocumentPath=C:\Archivos de programa\Altium Designer Summer 09\Library\Miscellaneous Connectors.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document64]
+DocumentPath=C:\Archivos de programa\Altium Designer Summer 09\Library\Pcb\Miscellaneous Devices PCB.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document65]
+DocumentPath=C:\Archivos de programa\Altium Designer Summer 09\Library\Pcb\Miscellaneous.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document66]
+DocumentPath=FPGA_Peripherals_Control.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=27
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document67]
+DocumentPath=Peripherals_Control.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -995,7 +1055,7 @@ SCH_ShowNoErc=-1
 SCH_ShowParameter=-1
 SCH_ShowProbes=-1
 SCH_ShowBlankets=-1
-OutputFileName=SCB.PrjPCB=D:\White Rabbit\SCB\SCB.pdf
+OutputFileName=SCB.PrjPCB=D:\White Rabbit\Docs_PDF\SCB.pdf
 SCH_ExpandLogicalToPhysical=0
 SCH_VariantName=[No Variations]
 SCH_ExpandComponentDesignators=-1

@@ -751,22 +751,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document46]
-DocumentPath=FPGA_PLLs.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document47]
 DocumentPath=C:\Archivos de programa\Altium Designer Summer 09\Library\KEMET Electronics\KEMET Electronics Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -782,7 +766,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document48]
+[Document47]
 DocumentPath=Power_Supply.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -798,7 +782,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document49]
+[Document48]
 DocumentPath=Connectors.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -814,7 +798,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document50]
+[Document49]
 DocumentPath=External WatchDogs.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -830,7 +814,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document51]
+[Document50]
 DocumentPath=..\LIBS\7S_WR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -846,7 +830,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document52]
+[Document51]
 DocumentPath=C:\Archivos de programa\Altium Designer Summer 09\Library\Microchip\Microchip Power Mgt Line Regulator.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -862,7 +846,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document53]
+[Document52]
 DocumentPath=C:\Archivos de programa\Altium Designer Summer 09\Library\National Semiconductor\NSC Voltage Reference.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -878,7 +862,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document54]
+[Document53]
 DocumentPath=..\LIBS\CERN_Libs\ICs And Semiconductors.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -894,7 +878,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document55]
+[Document54]
 DocumentPath=..\LIBS\CERN_Libs\Resistors.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -910,7 +894,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document56]
+[Document55]
 DocumentPath=..\LIBS\CERN_Libs\Capacitors.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -926,7 +910,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document57]
+[Document56]
 DocumentPath=C:\Archivos de programa\Altium Designer Summer 09\Library\Miscellaneous Devices.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -942,7 +926,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document58]
+[Document57]
 DocumentPath=C:\Archivos de programa\Altium Designer Summer 09\Library\Miscellaneous Connectors.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -958,7 +942,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document59]
+[Document58]
 DocumentPath=C:\Archivos de programa\Altium Designer Summer 09\Library\Pcb\Miscellaneous Devices PCB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -974,7 +958,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document60]
+[Document59]
 DocumentPath=C:\Archivos de programa\Altium Designer Summer 09\Library\Pcb\Miscellaneous.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -990,7 +974,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document61]
+[Document60]
 DocumentPath=FPGA_Peripherals_Control.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1006,7 +990,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document62]
+[Document61]
 DocumentPath=Peripherals_Control.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1022,7 +1006,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document63]
+[Document62]
 DocumentPath=SCB_PLLs.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1038,7 +1022,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document64]
+[Document63]
 DocumentPath=FPGA_Peripherals_Control.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1054,7 +1038,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document65]
+[Document64]
 DocumentPath=SCB_CLKs.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1070,7 +1054,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document66]
+[Document65]
 DocumentPath=C:\Archivos de programa\Altium Designer Summer 09\Library\Micron Technology\Micron Memory Dynamic RAM.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1086,7 +1070,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document67]
+[Document66]
 DocumentPath=..\LIBS\CERN_Libs\PcbLib\Networks SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1102,7 +1086,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document68]
+[Document67]
 DocumentPath=CPU_DDR2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1

@@ -942,22 +942,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document58]
-DocumentPath=Peripherals_Control.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document59]
 DocumentPath=SCB_PLLs.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -973,7 +957,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document60]
+[Document59]
 DocumentPath=FPGA_Peripherals_Control.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -989,7 +973,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document61]
+[Document60]
 DocumentPath=SCB_CLKs.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1005,7 +989,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document62]
+[Document61]
 DocumentPath=..\..\..\..\..\Archivos de programa\Altium Designer Summer 09\Library\Micron Technology\Micron Memory Dynamic RAM.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1021,7 +1005,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document63]
+[Document62]
 DocumentPath=CPU_DDR2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1

@@ -733,6 +733,14 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
+[GeneratedDocument1]
+DocumentPath=..\..\..\..\..\Documents and Settings\Administrador\Configuración local\Temp\Revisions\[Revision 1194] uTCA_MCH_PCB3.pcbdoc.htm
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=uTCA_MCH_PCB3.pcbdoc.htm
+DItemRevisionGUID=
+
 [PCBConfiguration1]
 ReleaseItemId=
 CurrentRevision=

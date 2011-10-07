@@ -31,38 +31,6 @@ PushECOToAnnotationFile=1
 DItemRevisionGUID=
 
 [Document1]
-DocumentPath=SFP.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=8
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document2]
-DocumentPath=SFP.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document3]
 DocumentPath=WR_LINK.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -78,7 +46,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document4]
+[Document2]
 DocumentPath=WR_LINK.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -94,7 +62,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document5]
+[Document3]
 DocumentPath=Connector_GTX.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -110,23 +78,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document6]
-DocumentPath=Connectors.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document7]
+[Document4]
 DocumentPath=I2C_Multiplexers.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -142,7 +94,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document8]
+[Document5]
 DocumentPath=Main.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -158,7 +110,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document9]
+[Document6]
 DocumentPath=Connectors_GPIOs.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -174,7 +126,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document10]
+[Document7]
 DocumentPath=Connector_GTX.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +142,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document11]
+[Document8]
 DocumentPath=C:\Archivos de programa\Altium Designer Summer 09\Library\Linear Technology\LT Power Mgt DC-DC Converter.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -206,7 +158,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document12]
+[Document9]
 DocumentPath=C:\Archivos de programa\Altium Designer Summer 09\Library\Linear Technology\LT Power Mgt Switching Regulator.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -222,7 +174,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document13]
+[Document10]
 DocumentPath=C:\Archivos de programa\Altium Designer Summer 09\Library\Linear Technology\Linear Technology Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -238,23 +190,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document14]
-DocumentPath=miniBackplane.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document15]
+[Document11]
 DocumentPath=FPGA_USB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +206,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
-[Document16]
+[Document12]
 DocumentPath=Power_Supply.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -278,6 +214,38 @@ AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
 AnnotateOrder=11
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document13]
+DocumentPath=miniBackplane_SFP.Annotation
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document14]
+DocumentPath=miniBackplane.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -413,29 +381,29 @@ Name=Report Outputs
 Description=
 TargetPrinter=HP Color LaserJet 2820 PCL 6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
-OutputType1=SinglePinNetReporter
-OutputName1=Report Single Pin Nets
+OutputType1=BOM_PartType
+OutputName1=Bill of Materials
 OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
-OutputType2=BOM_PartType
-OutputName2=Bill of Materials
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
+Configuration1_Name1=Filter
+Configuration1_Item1=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
+Configuration1_Name2=General
+Configuration1_Item2=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|IncludePCBData=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=1267|FormHeight=814|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration1_Name3=GroupOrder
+Configuration1_Item3=Comment=True|Footprint=True
+Configuration1_Name4=OutputConfigurationParameter1
+Configuration1_Item4=ue|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
+Configuration1_Name5=SortOrder
+Configuration1_Item5=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Name6=VisibleOrder
+Configuration1_Item6=Comment=125|Description=206|Designator=167|Footprint=84|LibRef=84|Quantity=84
+OutputType2=SinglePinNetReporter
+OutputName2=Report Single Pin Nets
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
-PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=A4|PrintScaleMode=1
-Configuration2_Name1=Filter
-Configuration2_Item1=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
-Configuration2_Name2=General
-Configuration2_Item2=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|IncludePCBData=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=1267|FormHeight=964|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
-Configuration2_Name3=GroupOrder
-Configuration2_Item3=Comment=True|Footprint=True
-Configuration2_Name4=OutputConfigurationParameter1
-Configuration2_Item4=ue|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
-Configuration2_Name5=SortOrder
-Configuration2_Item5=Designator=Up|Comment=Up|Footprint=Up
-Configuration2_Name6=VisibleOrder
-Configuration2_Item6=Comment=125|Description=206|Designator=167|Footprint=84|LibRef=84|Quantity=84
 
 [OutputGroup7]
 Name=Other Outputs
@@ -580,7 +548,7 @@ Type39=1
 Type40=1
 
 [Electrical Rules Check]
-Type1=1
+Type1=0
 Type2=1
 Type3=2
 Type4=1
@@ -706,8 +674,128 @@ MatchParameter1=Comment
 MatchStrictly1=1
 MatchParameter2=Library Reference
 MatchStrictly2=1
-PhysicalNamingFormat=$Component_$RoomName
+PhysicalNamingFormat=$ComponentPrefix$ComponentIndex-$ChannelIndex
 GlobalIndexSortOrder=3
+UniqueIDPath0=\DORYLYRV
+DocumentName0=Connector_GTX.SchDoc
+IsEnabled0=1
+SelectionScope0=All
+Order0=1
+IndexEnabled0=0
+IndexStartValue0=1
+Suffix0=
+UniqueIDPath1=\RDRBBSUX
+DocumentName1=Connectors_GPIOs.SchDoc
+IsEnabled1=1
+SelectionScope1=All
+Order1=43
+IndexEnabled1=0
+IndexStartValue1=1
+Suffix1=
+UniqueIDPath2=\ESTHQHCL
+DocumentName2=FPGA_USB.SchDoc
+IsEnabled2=1
+SelectionScope2=All
+Order2=3
+IndexEnabled2=0
+IndexStartValue2=1
+Suffix2=
+UniqueIDPath3=\KVOQKHLH
+DocumentName3=I2C_Multiplexers.SchDoc
+IsEnabled3=1
+SelectionScope3=All
+Order3=4
+IndexEnabled3=0
+IndexStartValue3=1
+Suffix3=
+UniqueIDPath4=
+DocumentName4=Main.SchDoc
+IsEnabled4=1
+SelectionScope4=All
+Order4=5
+IndexEnabled4=0
+IndexStartValue4=1
+Suffix4=
+UniqueIDPath5=\KJRAPAJP
+DocumentName5=Power_Supply.SchDoc
+IsEnabled5=1
+SelectionScope5=All
+Order5=6
+IndexEnabled5=0
+IndexStartValue5=1
+Suffix5=
+UniqueIDPath6=\LRAKXARC
+DocumentName6=WR_LINK.SchDoc
+IsEnabled6=1
+SelectionScope6=All
+Order6=44
+IndexEnabled6=0
+IndexStartValue6=1
+Suffix6=
+UniqueIDPath7=\KVXVCHHG
+DocumentName7=WR_LINK.SchDoc
+IsEnabled7=1
+SelectionScope7=All
+Order7=45
+IndexEnabled7=0
+IndexStartValue7=1
+Suffix7=
+UniqueIDPath8=\JFNTHQDT
+DocumentName8=WR_LINK.SchDoc
+IsEnabled8=1
+SelectionScope8=All
+Order8=46
+IndexEnabled8=0
+IndexStartValue8=1
+Suffix8=
+UniqueIDPath9=\SIOEOJBH
+DocumentName9=WR_LINK.SchDoc
+IsEnabled9=1
+SelectionScope9=All
+Order9=47
+IndexEnabled9=0
+IndexStartValue9=1
+Suffix9=
+UniqueIDPath10=\GEIEINFV
+DocumentName10=WR_LINK.SchDoc
+IsEnabled10=1
+SelectionScope10=All
+Order10=48
+IndexEnabled10=0
+IndexStartValue10=1
+Suffix10=
+UniqueIDPath11=\TUBCNFEL
+DocumentName11=WR_LINK.SchDoc
+IsEnabled11=1
+SelectionScope11=All
+Order11=49
+IndexEnabled11=0
+IndexStartValue11=1
+Suffix11=
+UniqueIDPath12=\LXKEWQDI
+DocumentName12=WR_LINK.SchDoc
+IsEnabled12=1
+SelectionScope12=All
+Order12=50
+IndexEnabled12=0
+IndexStartValue12=1
+Suffix12=
+UniqueIDPath13=\BKOSPXJB
+DocumentName13=WR_LINK.SchDoc
+IsEnabled13=1
+SelectionScope13=All
+Order13=51
+IndexEnabled13=0
+IndexStartValue13=1
+Suffix13=
+UniqueIDPath14=\GWGPBEPC
+DocumentName14=WR_LINK.SchDoc
+IsEnabled14=1
+SelectionScope14=All
+Order14=52
+IndexEnabled14=0
+IndexStartValue14=1
+Suffix14=
 
 [PrjClassGen]
 CompClassManualEnabled=0

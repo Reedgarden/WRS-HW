@@ -111,7 +111,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document6]
-DocumentPath=Connectors_GPIOs.SchDoc
+DocumentPath=Connectors_GPIOs_Fixed.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -263,98 +263,22 @@ DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.GM8
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.GM12
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.GM14
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.GP1
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.GP2
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument22]
 DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.REP
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for miniBackplane_SFP\Pick Place for miniBackplane.csv
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for miniBackplane_SFP\Pick Place for miniBackplane.txt
 DItemRevisionGUID=
 

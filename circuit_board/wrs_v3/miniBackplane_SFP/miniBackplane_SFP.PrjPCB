@@ -111,7 +111,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document6]
-DocumentPath=Connectors_GPIOs_Fixed.SchDoc
+DocumentPath=Connectors_GPIOs.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -191,7 +191,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document11]
-DocumentPath=FPGA_USB.SchDoc
+DocumentPath=TEST_USB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -294,7 +294,7 @@ AutoOpenFile=-1
 AutoOpenOutJob=-1
 
 [Generic_SmartPDFSettings]
-ProjectMode=0
+ProjectMode=-1
 ZoomPrecision=50
 AddNetsInformation=0
 AddNetPins=-1
@@ -332,13 +332,13 @@ OutputDefault1=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HP Color LaserJet 2820 PCL 6
+TargetPrinter=SmartDraw PDF Filter
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 
 [OutputGroup3]
 Name=New Output
 Description=
-TargetPrinter=HP Color LaserJet 2820 PCL 6
+TargetPrinter=SmartDraw PDF Filter
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 
 [OutputGroup4]
@@ -574,7 +574,7 @@ OutputDefault2=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=HP Color LaserJet 2820 PCL 6
+TargetPrinter=SmartDraw PDF Filter
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 
 [OutputGroup8]
@@ -592,7 +592,7 @@ PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=HP Color LaserJet 2820 PCL 6
+TargetPrinter=SmartDraw PDF Filter
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 
 [Modification Levels]
@@ -858,35 +858,35 @@ Order1=43
 IndexEnabled1=0
 IndexStartValue1=1
 Suffix1=
-UniqueIDPath2=\ESTHQHCL
-DocumentName2=FPGA_USB.SchDoc
+UniqueIDPath2=\KVOQKHLH
+DocumentName2=I2C_Multiplexers.SchDoc
 IsEnabled2=1
 SelectionScope2=All
-Order2=3
+Order2=4
 IndexEnabled2=0
 IndexStartValue2=1
 Suffix2=
-UniqueIDPath3=\KVOQKHLH
-DocumentName3=I2C_Multiplexers.SchDoc
+UniqueIDPath3=
+DocumentName3=Main.SchDoc
 IsEnabled3=1
 SelectionScope3=All
-Order3=4
+Order3=5
 IndexEnabled3=0
 IndexStartValue3=1
 Suffix3=
-UniqueIDPath4=
-DocumentName4=Main.SchDoc
+UniqueIDPath4=\KJRAPAJP
+DocumentName4=Power_Supply.SchDoc
 IsEnabled4=1
 SelectionScope4=All
-Order4=5
+Order4=6
 IndexEnabled4=0
 IndexStartValue4=1
 Suffix4=
-UniqueIDPath5=\KJRAPAJP
-DocumentName5=Power_Supply.SchDoc
+UniqueIDPath5=\ESTHQHCL
+DocumentName5=TEST_USB.SchDoc
 IsEnabled5=1
 SelectionScope5=All
-Order5=6
+Order5=53
 IndexEnabled5=0
 IndexStartValue5=1
 Suffix5=

@@ -223,22 +223,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document13]
-DocumentPath=miniBackplane_SFP.Annotation
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-
-[Document14]
 DocumentPath=miniBackplane.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -254,28 +238,152 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
+[Document14]
+DocumentPath=I2C_Peripherals.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=12
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document15]
+DocumentPath=miniBackplane_SFP.Annotation
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for miniBackplane_SFP\Design Rule Check - miniBackplane.html
+DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane-NonPlated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.REP
+DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.RUL
+DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.TXT
+DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for miniBackplane_SFP\Pick Place for miniBackplane.csv
+DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for miniBackplane_SFP\Pick Place for miniBackplane.txt
+DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.G1
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.G2
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.GM8
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.GM12
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.GM14
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.REP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for miniBackplane_SFP\miniBackplane.RUL
 DItemRevisionGUID=
 
 [PCBConfiguration1]
@@ -534,7 +642,7 @@ OutputDocumentPath7=
 OutputVariantName7=[No Variations]
 OutputDefault7=0
 Configuration7_Name1=OutputConfigurationParameter1
-Configuration7_Item1=AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16842753~1,16842754~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16908296~1,16908300~1,16908301~1,16908302~1,16908303~1,16973837~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False
+Configuration7_Item1=AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16777218~1,16842753~1,16842754~1,16777219~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16908296~1,16908300~1,16908301~1,16908302~1,16908303~1,16973837~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False
 
 [OutputGroup6]
 Name=Report Outputs
@@ -862,102 +970,110 @@ Order2=4
 IndexEnabled2=0
 IndexStartValue2=1
 Suffix2=
-UniqueIDPath3=
-DocumentName3=Main.SchDoc
+UniqueIDPath3=\AGQTPKUQ
+DocumentName3=I2C_Peripherals.SchDoc
 IsEnabled3=1
 SelectionScope3=All
-Order3=5
+Order3=54
 IndexEnabled3=0
 IndexStartValue3=1
 Suffix3=
-UniqueIDPath4=\KJRAPAJP
-DocumentName4=Power_Supply.SchDoc
+UniqueIDPath4=
+DocumentName4=Main.SchDoc
 IsEnabled4=1
 SelectionScope4=All
-Order4=6
+Order4=5
 IndexEnabled4=0
 IndexStartValue4=1
 Suffix4=
-UniqueIDPath5=\ESTHQHCL
-DocumentName5=TEST_USB.SchDoc
+UniqueIDPath5=\KJRAPAJP
+DocumentName5=Power_Supply.SchDoc
 IsEnabled5=1
 SelectionScope5=All
-Order5=53
+Order5=6
 IndexEnabled5=0
 IndexStartValue5=1
 Suffix5=
-UniqueIDPath6=\LRAKXARC
-DocumentName6=WR_LINK.SchDoc
+UniqueIDPath6=\ESTHQHCL
+DocumentName6=TEST_USB.SchDoc
 IsEnabled6=1
 SelectionScope6=All
-Order6=44
+Order6=53
 IndexEnabled6=0
 IndexStartValue6=1
 Suffix6=
-UniqueIDPath7=\KVXVCHHG
+UniqueIDPath7=\LRAKXARC
 DocumentName7=WR_LINK.SchDoc
 IsEnabled7=1
 SelectionScope7=All
-Order7=45
+Order7=44
 IndexEnabled7=0
 IndexStartValue7=1
 Suffix7=
-UniqueIDPath8=\JFNTHQDT
+UniqueIDPath8=\KVXVCHHG
 DocumentName8=WR_LINK.SchDoc
 IsEnabled8=1
 SelectionScope8=All
-Order8=46
+Order8=45
 IndexEnabled8=0
 IndexStartValue8=1
 Suffix8=
-UniqueIDPath9=\SIOEOJBH
+UniqueIDPath9=\JFNTHQDT
 DocumentName9=WR_LINK.SchDoc
 IsEnabled9=1
 SelectionScope9=All
-Order9=47
+Order9=46
 IndexEnabled9=0
 IndexStartValue9=1
 Suffix9=
-UniqueIDPath10=\GEIEINFV
+UniqueIDPath10=\SIOEOJBH
 DocumentName10=WR_LINK.SchDoc
 IsEnabled10=1
 SelectionScope10=All
-Order10=48
+Order10=47
 IndexEnabled10=0
 IndexStartValue10=1
 Suffix10=
-UniqueIDPath11=\TUBCNFEL
+UniqueIDPath11=\GEIEINFV
 DocumentName11=WR_LINK.SchDoc
 IsEnabled11=1
 SelectionScope11=All
-Order11=49
+Order11=48
 IndexEnabled11=0
 IndexStartValue11=1
 Suffix11=
-UniqueIDPath12=\LXKEWQDI
+UniqueIDPath12=\TUBCNFEL
 DocumentName12=WR_LINK.SchDoc
 IsEnabled12=1
 SelectionScope12=All
-Order12=50
+Order12=49
 IndexEnabled12=0
 IndexStartValue12=1
 Suffix12=
-UniqueIDPath13=\BKOSPXJB
+UniqueIDPath13=\LXKEWQDI
 DocumentName13=WR_LINK.SchDoc
 IsEnabled13=1
 SelectionScope13=All
-Order13=51
+Order13=50
 IndexEnabled13=0
 IndexStartValue13=1
 Suffix13=
-UniqueIDPath14=\GWGPBEPC
+UniqueIDPath14=\BKOSPXJB
 DocumentName14=WR_LINK.SchDoc
 IsEnabled14=1
 SelectionScope14=All
-Order14=52
+Order14=51
 IndexEnabled14=0
 IndexStartValue14=1
 Suffix14=
+UniqueIDPath15=\GWGPBEPC
+DocumentName15=WR_LINK.SchDoc
+IsEnabled15=1
+SelectionScope15=All
+Order15=52
+IndexEnabled15=0
+IndexStartValue15=1
+Suffix15=
 
 [PrjClassGen]
 CompClassManualEnabled=0

@@ -1,4 +1,4 @@
-SCB Changes from V3.3 to V3.4:
+﻿SCB Changes from V3.3 to V3.4:
 ===============================
 
 Schematics:
@@ -24,6 +24,10 @@ Schematics:
  * Removed the six 0R resistor at the inputs of the AD5662 DACs
  * FPGA Banks 26, 36 and 25 moved to "PFGA_Peripherals_Control" sheet. 
  * Connected the 3 free buffers SN74LVT125DW to the EXTPPSOUT output signal.
+GK:
+ * added "Mounted: No" field to not populated components
+ * updated FPGA comment field
+
 
 PCB:
 ------
@@ -31,6 +35,12 @@ PCB:
  * GTX_DIFF signals routed on 90um/160um in order to reduce space, allowing to pass between vias
  * Some vias were moved from pads of some components to avoid the solder paste flooding by the vía. 
  * IVT3200 VCO was moved to separate it of NAND Flash IC
+GK:
+ * synchronization of PCB with schematic
+ * fixed DRC errors related mainly with LDO footprint and GND connection
+ * fixed several acute angle errors.
+ * fixed over 700 error detected by CAMTASTIC tool
+
 
 
 

@@ -1,3 +1,38 @@
+SCB Changes from V3.3 to V3.4:
+===============================
+
+Schematics:
+------------
+
+ * C165 value changed from 100nF to 220nF
+ * VCC_IN of CDCM61002 (IC13) connected to +3V3
+ * RSTN pin of IC13 conected to a 47nF capacitor, not to +3V3
+ * QDRII_200CLK moved to OUT3 (LVPECL) of AD9516.
+ * Added LVDS termination resistor to adapt OUT3 to LVDS format
+ * CLK_OUT (EXTREF125MHZOUT) connected to OUT9 (CMOS) of AD9516-4.
+ * CLK_OUT transformer changed by 1:1 (WBC1-1LB)
+ * R253 and R254 resistor (Ethernet sheet) changed to 0402 size in order to reduce items.
+ * Changed EXTPPSIN input stage in order to add 50 R termination selectable by the FPGA. 
+ * Name of nets QDRII_CLK and QDRII_200CLK changed to REF_CLK and AUX_CLK.
+ * Input EXTREF_125M removed. 
+ * QDRII IC42 chip removed. 
+ * Added ouput from FPGA latched by an AD9516 clock. This output uses the EXTREF_125M SMC connector:
+	* Added LVPECL latch
+	* Added LVPECL to LVTTL translator at the output 
+	* CLK0 input of IC12 changed to OUT6 of AD9516
+	* FPGA VCCO Bank 26 changed to +2V5 to use LVPECL and LVDS
+ * Removed the six 0R resistor at the inputs of the AD5662 DACs
+ * FPGA Banks 26, 36 and 25 moved to "PFGA_Peripherals_Control" sheet. 
+ * Connected the 3 free buffers SN74LVT125DW to the EXTPPSOUT output signal.
+
+PCB:
+------
+
+ * GTX_DIFF signals routed on 90um/160um in order to reduce space, allowing to pass between vias
+ * Some vias were moved from pads of some components to avoid the solder paste flooding by the vía. 
+ * IVT3200 VCO was moved to separate it of NAND Flash IC
+
+
 
 
 Changes from SCBv3.2 to SCBv3.3
